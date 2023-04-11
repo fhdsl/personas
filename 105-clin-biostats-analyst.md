@@ -11,23 +11,31 @@ Communicating statistical findings to researchers and clinical teams
 Work, Collaboration and Communication Patterns
 Works closely with clinical researchers, data managers, and clinical operations teams. Collaborates with colleagues in person and remotely. Communicates frequently via email, phone, and video conferencing.
 
-## Funding and Reporting Model
-Reports to the Director of Biostatistics. Works within a budget provided by upper management.
 
-## Adeptness with using Data and Technology
+## Nature of Interactions with Data and Tools
 Highly proficient in statistical software such as R or SAS. Comfortable working with multi-modal clinical data, including imaging and molecular data.
+
+## Data Domain and Types of Interest
 
 ## Software Expertise, Attitude and Use
 Highly proficient in statistical software such as R or SAS. Open to learning and adopting new statistical software and programming languages as needed.
 
-## Approach and Tolerance to Change
-Open to change and adaptable to new methods and techniques in biostatistics.
 
-## Broad Needs and Wants
+## Needs and Wants
 Access to high-quality multi-modal clinical data for analyses. Effective collaboration with clinical researchers and operations teams. Efficient and accurate statistical analyses and reporting.
 
-## Broad Challenges
+## Key Challenges
 Integrating and analyzing complex multi-modal clinical data. Developing and implementing statistical models that are relevant to clinical research questions.
+
+## Orientation and Tolerance to Change
+Open to change and adaptable to new methods and techniques in biostatistics.
+
+
+## Work, Collaboration and Communication Patterns
+
+## Funding and Reporting Model
+Reports to the Director of Biostatistics. Works within a budget provided by upper management.
+
 
 ## Metrics of Success and Motivations
 Publication of successful research findings. Positive feedback from clinical research teams.

@@ -10,18 +10,17 @@ Use data from many sources e.g., Gateway,  CIBMTR-DBTC, Epic, OWL, REDCap, OnCo
 Use extensive data knowledge to teach/mentor Researchers about “the rules” (e.g., defining constructs) and best practices
 
 
+## Nature of Interactions with Data and Tools
 
-## Work, Collaboration and Communication Patterns
+## Data Domain and Types of Interest
 
-## Funding and Reporting Model
 
-## Adeptness with using Data and Technology
 
 ## Software Expertise, Attitude and Use
 
-## Approach and Tolerance to Change
+## Orientation and Tolerance to Change
 
-## Broad Needs and Wants
+## Needs and Wants
 
 Maintain/grow the library of curated up-to-date patient data, ready for extraction in a timely manner to ensure efficiency, integrity and immediacy in FHCC Research
 
@@ -30,7 +29,7 @@ Provide time-critical, accurate data for clinical use e.g., treatment options an
 Provide verified, standardized, summarized procedures and rules derived from care that are used as definitions for research e.g., engraftment
 
 
-## Broad Challenges
+## Key Challenges
 Interruption to data that make up Summary Files
 
 Historic data (50+ years and ~20k unique transplants) is linked into code, retrievals, reports, etc.  so data formats and rules need to be carried forward. 
@@ -43,6 +42,10 @@ Multiple initiatives around data without clearly communicated strategy
  
 CRDS input and expertise is underutilized in strategic decision making
 
+
+## Work, Collaboration and Communication Patterns
+
+## Funding and Reporting Model
 
 
 ## Metrics of Success and Motivations

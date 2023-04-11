@@ -1,6 +1,7 @@
-Persona Title: Computational Biology Lab Manager
-Job Title
-Computational Biology Lab Manager
+# Computational Biology Lab Manager
+
+## Job Title
+Lab Manager
 
 Major Responsibilities
 Manage daily operations of a computational biology lab with a wet lab component

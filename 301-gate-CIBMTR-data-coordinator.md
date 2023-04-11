@@ -10,17 +10,14 @@ Formal activities, such as Continuous Process Improvement, audits
 
 Manage and investigate ad hoc data queries (e.g., mismatched information) and correct where needed
 
-## Work, Collaboration and Communication Patterns
+## Nature of Interactions with Data and Tools
 
-## Funding and Reporting Model
-
-## Adeptness with using Data and Technology
+## Data Domain and Types of Interest
 
 ## Software Expertise, Attitude and Use
 
-## Approach and Tolerance to Change
 
-## Broad Needs and Wants
+## Needs and Wants
 Getting clean data as quickly and easily as possible
 
 Ability to report at multiple points in time to tell the patient’s story
@@ -28,7 +25,7 @@ Ability to report at multiple points in time to tell the patient’s story
 Spending less time acquiring data and performing data entry and more time interpreting the data
 
 
-## Broad Challenges
+## Key Challenges
 Highly manual processes for CIBMTR data acquisition.
 
 Lack of confidence in navigating data in new instance of Epic.
@@ -43,9 +40,16 @@ Duplicate data exists in Gateway and Epic.  Gateway workflows are known and save
 
 Mechanisms to allow for the automatic electronic submission and validation of data
 
+## Orientation and Tolerance to Change
 
+
+## Work, Collaboration and Communication Patterns
+
+## Funding and Reporting Model
 
 ## Metrics of Success and Motivations
+
+
 
 ## Professional Development Goals
 

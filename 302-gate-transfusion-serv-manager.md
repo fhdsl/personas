@@ -9,17 +9,18 @@ Print documents from multiple source systems (e.g. Gateway, Epic, Bloodworks) an
 
 Prepare summary conference materials at discharge to be sent to home provider.
 
-## Work, Collaboration and Communication Patterns
 
-## Funding and Reporting Model
 
-## Adeptness with using Data and Technology
+## Nature of Interactions with Data and Tools
+
+## Data Domain and Types of Interest
+
 
 ## Software Expertise, Attitude and Use
 
-## Approach and Tolerance to Change
+## Orientation and Tolerance to Change
 
-## Broad Needs and Wants
+## Needs and Wants
 Patient safety when administering blood product.
 
 Alignment across multiple “sources of truth” for patient data.
@@ -27,7 +28,7 @@ Alignment across multiple “sources of truth” for patient data.
 Reduction of duplicate data entry and workflow steps. 
 
 
-## Broad Challenges
+## Key Challenges
 Pediatric program moving to Seattle Children’s will disrupt current Gateway workflows in advance of replacement.
 
 Current security roles allow for broad edit/update permissions to transfusion information.  
@@ -41,6 +42,10 @@ Manual, time-consuming processes
 Processes that require paper workflows
 
 ## Metrics of Success and Motivations
+
+## Work, Collaboration and Communication Patterns
+
+## Funding and Reporting Model
 
 ## Professional Development Goals
 

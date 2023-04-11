@@ -1,25 +1,31 @@
-# Persona Title
+# Junior Translational Research Faculty Member
 
 ## Job Title
+Associate Professor
 
 ## Major Responsibilities
 
-## Work, Collaboration and Communication Patterns
+## Nature of Interactions with Data and Tools
 
-## Funding and Reporting Model
+## Data Domain and Types of Interest
 
-## Adeptness with using Data and Technology
 
 ## Software Expertise, Attitude and Use
 
-## Approach and Tolerance to Change
 
-## Broad Needs and Wants
+## Needs and Wants
 
-## Broad Challenges
+## Key Challenges
+
+## Orientation and Tolerance to Change
+
+
+## Work, Collaboration and Communication Patterns
+
+
+## Funding and Reporting Model
+
 
 ## Metrics of Success and Motivations
 
 ## Professional Development Goals
-
-## Legacy Institution (FHCC specific)
