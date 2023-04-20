@@ -1,0 +1,145 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin    : contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-archives
+  - jekyll-redirect-from
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Site Title"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "FredHutch/FH-minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   :  "/images/favicon-hutch.png" # path of fallback teaser image, e.g.
+logo                     : "/images/FHCC_Logo_FullColor_RGB.png" ## "/images/fhdasl-brothers-squared.png"
+
+
+atom_feed:
+  hide                   : true
+  path                   : # blank (default) uses feed.xml
+search                   :  true #, false (default)
+search_full_content      :  true #, false (default)
+search_provider          :  lunr #(default), algolia, google
+lunr:
+  search_within_pages: true
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :  ""
+    anonymize_ip         : # true, false (default)
+
+
+# Reading Files
+include:
+  - _data
+  - assets
+  - _layouts
+  - images
+  - _pages
+exclude:
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown: kramdown
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      share: false
+      sidebar:
+        nav: "frontpage"
+#_pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      share: false
+      sidebar:
+        nav: "frontpage"
+
+footer:
+  links:
+    - label: "See our GitHub Org"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/FredHutch
+    - label: "Join the Conversation on Slack"
+      icon: "fab fa-fw fa-slack"
+      url: https://hutchdatascience.org/joinslack/
+    - label: "Read Fred Hutch Data Science Docs"
+      icon: "fas fa-book"
+      url: https://sciwiki.fredhutch.org
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
