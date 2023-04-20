@@ -1,21 +1,14 @@
 ---
-title: Your Website Title
-layout: splash
-permalink: /
-header:
-  overlay_color: "#1B365D"
-  overlay_filter: 
-  overlay_image: 
-excerpt: "Some cool information about us"
-feature_row:
-  - title: "Calendar"
-    excerpt: "Find select upcoming events."
-    url: /calendar/
-  - title: "Blog"
-    excerpt: "See posts."
-    url: /year-archive/
-  - title: "About"
-    excerpt: "More about our group"
-    url: /about/
+title: DaSL Data Science Personas
+layout: collection
+permalink: /personas/
+classes: wide
+collection: personas # collection name
+entries_layout: grid # list (default),
+show_excerpts:  true #(default), false
+sort_by: title # date (default)
+sort_order:  forward # (default), reverse
+sidebar:
+  nav: "base"
 ---
-{% include feature_row %}
+Some text here

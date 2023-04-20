@@ -33,9 +33,9 @@ name                     : "Your Name"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "FredHutch/FH-minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "fhdsl/personas" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  "/images/favicon-hutch.png" # path of fallback teaser image, e.g.
-logo                     : "/images/FHCC_Logo_FullColor_RGB.png" ## "/images/fhdasl-brothers-squared.png"
+logo                     : "/images/official-data-science-lab.jpg" ## "/images/fhdasl-brothers-squared.png"
 
 
 atom_feed:
@@ -55,12 +55,13 @@ google_site_verification :
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  ""
+    tracking_id          :  "G-GZX7GS19YN"
     anonymize_ip         : # true, false (default)
 
 
 # Reading Files
 include:
+  - Reviewed
   - _data
   - assets
   - _layouts
@@ -101,7 +102,7 @@ defaults:
       classes: wide
       share: false
       sidebar:
-        nav: "frontpage"
+        nav: "base"
 
 footer:
   links:
@@ -115,6 +116,11 @@ footer:
       icon: "fas fa-book"
       url: https://sciwiki.fredhutch.org
 
+
+collections:
+  personas:
+    output: true
+    permalink: /personas/:path/
 
 # Archives
 #  Type
