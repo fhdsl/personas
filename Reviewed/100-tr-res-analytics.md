@@ -1,10 +1,13 @@
+
 # Translational Research Analyst
 
-## Job Title
+## Job Title(s)
 Translational Research Analytics Manager
+Research Coordinator
+SRA
 
 ## Major Responsibilities
-Leads a group of analysts primarily supporting data access, facilitation and support for translational research using FHCC clinical data. 
+Supports data access, facilitation and support for translational research using FHCC clinical data. 
 - Provides direct support for facilitated data request fulfillment for researchers as well as supporting self-service data access. 
 - Works with researchers, data governance staff, and IT staff to develop and socialize processes (both automated and human) that improve data accessibility while protecting FHCC patients by respecting patient consent, privacy and agency.
 - Mentors and trains analysts and research staff in best practices of documentation of analyses, appropriate use of data, and data science skills. 
@@ -12,14 +15,16 @@ Leads a group of analysts primarily supporting data access, facilitation and sup
 
 
 ## Nature of Interactions with Data and Tools
-- Accesses raw clinical EHR data and does appropriate data cleaning and transformation to meet the needs of data requests for research use cases. 
-- Creates data dashboards and summarized data sets to support researchers leveraging data for study planning and feasibility studies.  
+- accesses raw clinical EHR data
+- does appropriate data cleaning and transformation to meet the needs of data requests for research use cases 
+- merges and harmonizes datasets with other, non-EHR based datasets in use for research
+- creates data dashboards and summarized data sets to support researchers leveraging data for study planning and feasibility studies
 
 
 ## Data Domain and Types of Interest
-- Unprocessed clinical EHR data
-- Associated, processed clinical genomic data sets such as mutation data, cohort-analyzed gene expression data, 
-- Unstructured laboratory and other clinical data reports that require data extraction, parsing and curation prior to integration with associated datasets.  
+- unprocessed clinical EHR data
+- associated, processed clinical genomic data sets such as mutation data, cohort-analyzed gene expression data, 
+- unstructured laboratory and other clinical data reports that require data extraction, parsing and curation prior to integration with associated datasets.  
 
 
 ## Software Expertise, Attitude and Use
@@ -28,9 +33,11 @@ Open to learning new tools and software if they will make their work more effici
 Adept user of base M365 suite for collaboration and communication (Teams, Word, Powerpoint, Excel, OneDrive).
 
 Technical software experience with:
-- GitHub, 
-- R/RStudio, 
-- SAS.
+- GitHub
+- R/RStudio
+- SAS
+- SQL
+- Python
 
 Computing environment experience with Linux HPC and local PC.
 

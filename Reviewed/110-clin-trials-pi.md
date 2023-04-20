@@ -10,27 +10,30 @@ Clinical Research Associate
 - Communicating with study participants and investigators
 
 ## Nature of Interactions with Data and Tools
-- Comfortable using various electronic data capture (EDC) systems like REDCap and clinical trial management systems (CTMS)
-- Able to extract and analyze data for screening and enrollment purposes from multiple tools
-- Prefers to work with data in Excel
+- comfortable using various electronic data capture (EDC) systems like REDCap and clinical trial management systems (CTMS)
+- able to extract and analyze data for screening and enrollment purposes from multiple tools
+- prefers to work with data in Excel
+- interacts with group-specific data management systems
 
 ## Data Domain and Types of Interest
-- Dashboards containing relevant views of clinical EHR data with evolving and specific definitions of outcomes or clinical events depending on the trial
-- Demographic data
-- Validated lists of genomic data such as tumor mutations or structural variants
+- dashboards containing relevant views of clinical EHR data with evolving and specific definitions of outcomes, data types and clinical events depending on the trial
+- demographic data is of interest
+- novel, non-clinically reported data is relevant such as research use only genetic assay results 
+- validated lists of genomic data such as tumor mutations or structural variants
+- interacts with survey and case report form type datasets
 
 
 ## Software Expertise, Attitude and Use
 Open to learning new software as needed to get the information they need but prefers familiar tools when possible to let them be more efficient.  Does not have spare time to learn new software or tools that are not certain to be relevant to their work immediately.  
 
-Highly proficient in 
+Highly proficient in:
 - Microsoft Excel and Word
 - REDCap
 
 
 ## Needs and Wants
 - Efficient and effective systems to identify and screen potential trial participants. 
-- Needs accurate and timely data to inform decision-making.
+- Needs accurate and timely data to inform decision-making and contacting patients for enrollment. 
 
 ## Key Challenges
 - Identifying and screening potential participants who meet study criteria. 
@@ -38,7 +41,7 @@ Highly proficient in
 
 
 ## Orientation and Tolerance to Change
-Open to change and adaptable to new processes and procedures.
+Open to change and adaptable to new processes and procedures in general but is very time limited due to clinical responsibilties so would prefer to only adapt to new procedures involved in connecting to long term systems and platforms, dependent on the potential impact on efficient and data access they might provide.  
 
 
 ## Work, Collaboration and Communication Patterns
