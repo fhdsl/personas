@@ -116,7 +116,7 @@ footer:
 collections:
   personas:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 # Archives
 #  Type
