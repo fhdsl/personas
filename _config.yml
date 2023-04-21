@@ -97,6 +97,8 @@ defaults:
       path: ""
       type: personas
     values:
+      layout: single
+      classes: wide
       share: false
 
 ## Note: keep this consistent with the main DaSL site
