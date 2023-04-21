@@ -1,6 +1,7 @@
-# Translational Research Faculty Member - Biospecimen Repository
-
-## Job Title
+---
+title: Translational Research Faculty Member - Biospecimen Repository
+---
+## Job Title(s)
 Professor
 
 ## Major Responsibilities

@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "DaSL Home"
+    url: https://hutchdatascience.org/
+
+base:
+  - title: "Who We Are"
+    children:
+      - title: "Page 1"
+        url: ""

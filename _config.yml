@@ -28,13 +28,13 @@ plugins:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : ""
+name                     : 
+description              : "Home base for the DaSL Data Science Personas"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fhdsl/personas" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :  "/images/favicon-hutch.png" # path of fallback teaser image, e.g.
+teaser                   :  "" # path of fallback teaser image, e.g.
 logo                     : "/images/official-data-science-lab.jpg" ## "/images/fhdasl-brothers-squared.png"
 
 
@@ -61,7 +61,7 @@ analytics:
 
 # Reading Files
 include:
-  - Reviewed
+  - _personas
   - _data
   - assets
   - _layouts
@@ -91,28 +91,24 @@ defaults:
     values:
       layout: single
       share: false
-      sidebar:
-        nav: "frontpage"
-#_pages
+
+#_personas
   - scope:
       path: ""
-      type: pages
+      type: personas
     values:
-      layout: single
-      classes: wide
       share: false
-      sidebar:
-        nav: "base"
 
+## Note: keep this consistent with the main DaSL site
 footer:
   links:
     - label: "See our GitHub Org"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/FredHutch
+      url: https://github.com/fhdsl
     - label: "Join the Conversation on Slack"
       icon: "fab fa-fw fa-slack"
       url: https://hutchdatascience.org/joinslack/
-    - label: "Read Fred Hutch Data Science Docs"
+    - label: "Read Hutch Data Science Docs"
       icon: "fas fa-book"
       url: https://sciwiki.fredhutch.org
 
@@ -120,7 +116,7 @@ footer:
 collections:
   personas:
     output: true
-    permalink: /personas/:path/
+    permalink: /:collection/:path/
 
 # Archives
 #  Type

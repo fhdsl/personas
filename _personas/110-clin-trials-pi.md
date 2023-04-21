@@ -1,6 +1,8 @@
-# Clinical Trials Researcher
+---
+title: Clinical Trials Researcher
+---
 
-## Job Title
+## Job Title(s)
 Clinical Research Associate
 
 ## Major Responsibilities

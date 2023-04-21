@@ -1,6 +1,6 @@
-
-# Translational Research Analyst
-
+---
+title:  Translational Research Analyst
+---
 ## Job Title(s)
 Translational Research Analytics Manager
 Research Coordinator

@@ -1,4 +1,7 @@
-## Job Title 
+---
+title: Biostatistics Faculty Member
+---
+## Job Title(s)
 Associate Professor of Biostatistics and Machine Learning
 
 ## Major Responsibilities: 
