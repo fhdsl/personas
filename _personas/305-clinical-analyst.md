@@ -68,6 +68,8 @@ The data analyst's current practice is driven by what data and tools are availab
 
 ## Funding and Reporting Model
 
+* Fred Hutch administrative funding and reporting to direct supervisor annually.
+
 ## Metrics of Success and Motivations
 
 ## Professional Development Goals
