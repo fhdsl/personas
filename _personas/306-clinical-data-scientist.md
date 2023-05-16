@@ -60,6 +60,7 @@ Technical software experience with:
 
 ## Funding and Reporting Model
 
+* Fred Hutch administrative funding and reporting to direct supervisor annually.
 
 ## Metrics of Success and Motivations
 
