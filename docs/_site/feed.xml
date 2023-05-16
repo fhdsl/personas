@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-20T18:21:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Site Title</title><subtitle>An amazing website.</subtitle><entry><title type="html">First Meeting Note</title><link href="http://localhost:4000/note-from-first-planning-meeting/" rel="alternate" type="text/html" title="First Meeting Note" /><published>2018-01-13T00:00:00-08:00</published><updated>2018-01-13T00:00:00-08:00</updated><id>http://localhost:4000/note-from-first-planning-meeting</id><content type="html" xml:base="http://localhost:4000/note-from-first-planning-meeting/">&lt;p&gt;In our first planning meeting, we have discussed mainly about how the
+group operates. Topics include communication channels and things we can do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Communication and cooperation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;communication channel: slack&lt;/li&gt;
+  &lt;li&gt;code sharing: github&lt;/li&gt;
+  &lt;li&gt;documentation: Jupyterhub.fredhatch, github page (Markdown), Topics, AIST, TRAC?&lt;/li&gt;
+  &lt;li&gt;webpage (blog posts, announcement, buzz news?) - Github page (jekyll/markdown) or sharepoint?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Things we can do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lightning talks (5 - 10min): short talks and allow time for feedback and questions.&lt;/li&gt;
+  &lt;li&gt;Journal club.&lt;/li&gt;
+  &lt;li&gt;Hackathon.&lt;/li&gt;
+  &lt;li&gt;Interactive workflows workshops:&lt;/li&gt;
+  &lt;li&gt;Methods for different technology and platform&lt;/li&gt;
+  &lt;li&gt;Resources (annotation, Galaxy, software, references)&lt;/li&gt;
+  &lt;li&gt;Cloud: beagle&lt;/li&gt;
+  &lt;li&gt;Sharing data with external collaborators&lt;/li&gt;
+  &lt;li&gt;Learning AWS-regions&lt;/li&gt;
+  &lt;li&gt;Learning Utilities provided by SciComp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Misc. topics&lt;/strong&gt;
+-Communication with SciComp: we have talked about we often don’t know what service or utilities SciComp has provided us. Nor did there is an efficient channel for them to know what we actually want and need help for. FHBig can surely fill up the gap and make the two-way communication channel possible and easier.
+There are some discussion about cloud (beagle) and AWS. Sounds like getting a workshop from SciComp would be helpful.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;github/slack: We have decided to use slack workspace as our direct communication channel and github as a way to share code. The github page (jekyll/Markdown) can also be used as a potential place for blog posts. We have not decided how to incorporate documentation, github repository, sharepoint or jupyterhub?&lt;/li&gt;
+  &lt;li&gt;Physical common workspace: This was brought out after the meeting. Wouldn’t be nice to have consolidate Bioinformatic and SciComp consulting to the same hours and place? Wouldn’t be nice to have a common workspace for all of us to share and work and have serious conversations?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Acknowledgement&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thanks Hamid for bringing us together and initiating the group.&lt;/li&gt;
+  &lt;li&gt;Thanks Stephen Tapscott for the coffee/tea and allowing Chao-Jen to work on organizing the meetings.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Meeting" /><category term="Organizing" /><summary type="html">In our first planning meeting, we have discussed mainly about how the group operates. Topics include communication channels and things we can do.</summary></entry></feed>
