@@ -68,8 +68,10 @@ The data analyst's current practice is driven by what data and tools are availab
 
 ## Funding and Reporting Model
 
-* Fred Hutch administrative funding and reporting to direct supervisor annually.
+* Fred Hutch administrative funding, perhaps departmental funding. Reports to direct supervisor annually.
 
 ## Metrics of Success and Motivations
+Success is measured by the ability to provide accurate, timely, and actionable information. Success could include reduced time for delivery of reports, positive collaborator feedback, and measurable impacts on clinical outcomes based on their analyses. Motivations include contributing to patient care improvements, advancing personal analytics skills, and enacting data-driven decision making.
 
 ## Professional Development Goals
+Gaining proficiency in new analytics tools, learning more about data science and machine learning methods, understanding new healthcare regulations and data standards, and improving their communication skills.
