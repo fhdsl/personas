@@ -1,7 +1,7 @@
 ---
 title: Biostatistics Faculty Member
 series: 100
-tags: [CARDS]
+tags: [CARDS, PHS]
 ---
 
 ## Job Title(s)
