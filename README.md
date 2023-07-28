@@ -8,9 +8,7 @@ Open this project in RStudio. Make sure you have at least R 4.3.0 installed.
 Then run the following in the R console:
 
 ```
-install.packages("renv", dependencies = TRUE)
-renv::activate()
-renv::restore()
+install.packages(c("fs", "rmarkdown", "htmltools", "tidyverse", "here"), dependencies = TRUE)
 source(here::here("build.R"))
 browseURL(here::here("docs", "index.html"))
 ```
