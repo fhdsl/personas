@@ -1,6 +1,9 @@
 ---
-title:  Translational Research Analyst
+title: Translational Research Analyst
+series: 100
+tags: [CARDS, "Clinical Research"]
 ---
+
 ## Job Title(s)
 Translational Research Analytics Manager
 Research Coordinator
@@ -12,20 +15,16 @@ Supports data access, facilitation and support for translational research using 
 - Works with researchers, data governance staff, and IT staff to develop and socialize processes (both automated and human) that improve data accessibility while protecting FHCC patients by respecting patient consent, privacy and agency.
 - Mentors and trains analysts and research staff in best practices of documentation of analyses, appropriate use of data, and data science skills. 
 
-
-
 ## Nature of Interactions with Data and Tools
 - accesses raw clinical EHR data
 - does appropriate data cleaning and transformation to meet the needs of data requests for research use cases 
 - merges and harmonizes datasets with other, non-EHR based datasets in use for research
 - creates data dashboards and summarized data sets to support researchers leveraging data for study planning and feasibility studies
 
-
 ## Data Domain and Types of Interest
 - unprocessed clinical EHR data
 - associated, processed clinical genomic data sets such as mutation data, cohort-analyzed gene expression data, 
 - unstructured laboratory and other clinical data reports that require data extraction, parsing and curation prior to integration with associated datasets.  
-
 
 ## Software Expertise, Attitude and Use
 Open to learning new tools and software if they will make their work more efficient and allow them to perform better, more reproducible analyses. 
@@ -45,7 +44,6 @@ Computing environment experience with Linux HPC and local PC.
 - Direct access to unprocessed clinical EHR data that is up to date
 - A mechanism to know who to talk to about what legacy systems hold which data types that could be leveraged for research now. 
 - A clear understanding of the implications of the new data sharing agreement with UW so that they can comply with required data stewardship requirements. 
-
 
 ## Key Challenges
 - Supports researchers who want to do retrospective analyses that require handling legacy data types and sources that have variable levels of support and modern access methods.  

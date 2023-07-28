@@ -1,5 +1,7 @@
 ---
 title: Clinical Trials Researcher
+series: 100
+tags: [CARDS]
 ---
 
 ## Job Title(s)

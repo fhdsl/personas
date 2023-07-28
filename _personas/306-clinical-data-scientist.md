@@ -1,6 +1,10 @@
-# Clinical Data Scientist
+---
+title: Clinical Data Scientist
+series: 300
+tags: [CARDS]
+---
 
-## Job Title
+## Job Title(s)
 
 Clinical Data Scientist
 
