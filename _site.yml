@@ -1,10 +1,10 @@
-name: "DaSL Personas"
+name: "DaSL Data Science Personas"
 output_dir: docs
 exclude: ["renv.lock"]
 navbar:
-  title: "DaSL Personas"
+  title: "DaSL Data Science Personas"
   right:
-    - text: "Tags"
+    - text: "By Keyword"
       href: tags.html
     - text: "DaSL Home"
       href: "https://hutchdatascience.org/"

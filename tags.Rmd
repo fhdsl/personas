@@ -1,6 +1,8 @@
 ---
-title: DaSL Data Science Personas Tag Pages
+title: Personas Grouped by Keywords
 ---
+
+We have created some curated lists of the DaSL Data Science Personas specifically for certain projects or efforts to help focus on the needs and requirements of the types of Personas that will use a tool, interact with a platform, perform a process, etc.  
 
 ```{r, results='asis', echo=FALSE, message=FALSE}
 library(tidyverse)
