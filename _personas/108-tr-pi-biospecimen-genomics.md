@@ -1,6 +1,9 @@
 ---
 title: Translational Research Faculty Member - Biospecimen Repository
+series: 100
+tags: [CARDS]
 ---
+
 ## Job Title(s)
 Professor
 

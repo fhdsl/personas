@@ -1,6 +1,9 @@
 ---
 title: Biostatistics Faculty Member
+series: 100
+tags: [CARDS, PHS]
 ---
+
 ## Job Title(s)
 Associate Professor of Biostatistics and Machine Learning
 
@@ -20,6 +23,7 @@ Interested in accessing raw clinical EHR data to build machine learning models t
 - Willing to learn new approaches to accessing data.  
 
 Uses programming languages such as:
+
 - R  
 - Python 
 - SAS

@@ -1,0 +1,15 @@
+name: "DaSL Data Science Personas"
+output_dir: docs
+exclude: ["renv.lock"]
+navbar:
+  title: "DaSL Data Science Personas"
+  right:
+    - text: "By Keyword"
+      href: tags.html
+    - text: "DaSL Home"
+      href: "https://hutchdatascience.org/"
+output:
+  html_document:
+    highlight: textmate
+    includes:
+      in_header: header.html

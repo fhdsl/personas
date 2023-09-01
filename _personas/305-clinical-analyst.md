@@ -1,6 +1,10 @@
-# Clinical Analyst
+---
+title: Clinical Analyst
+series: 300
+tags: [CARDS]
+---
 
-## Job Title
+## Job Title(s)
 
 * Clinical Analyst (levels I to IV)
 * Quality Analyst

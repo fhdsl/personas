@@ -1,0 +1,31 @@
+---
+title: Personas Grouped by Keywords
+---
+
+We have created some curated lists of the DaSL Data Science Personas specifically for certain projects or efforts to help focus on the needs and requirements of the types of Personas that will use a tool, interact with a platform, perform a process, etc.  
+
+```{r, results='asis', echo=FALSE, message=FALSE}
+library(tidyverse)
+library(here)
+library(fs)
+library(htmltools)
+library(rmarkdown)
+
+tags_ <- here("_personas/") |> 
+  dir_ls() |> 
+  map(~ yaml_front_matter(.x)$tags) |> 
+  unlist() |> 
+  unique() |> 
+  sort()
+
+tag_pages <- tags_ |> 
+  tolower() |> 
+  (\(x) gsub("\\s", "-", x))() |> 
+  paste0(".html")
+
+for (i in seq_along(tags_)) {
+  tags$a(href = tag_pages[i], tags_[[i]]) |> 
+    tags$h2() |> 
+    print()
+}
+```

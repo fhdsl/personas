@@ -1,0 +1,38 @@
+---
+title: tag template
+---
+
+```{r, results='asis', echo=FALSE, message=FALSE}
+library(tidyverse)
+library(here)
+library(fs)
+library(htmltools)
+library(rmarkdown)
+
+tag_ <- rmarkdown::metadata$title
+#tag_ <- "CARDS"
+
+webpage <- here("_personas/") |> 
+  dir_ls() |> 
+  basename() |> 
+  (\(x) sub(".md$", ".html", x))()
+
+series <- here("_personas/") |> 
+  dir_ls() |> 
+  map2(webpage, ~ c(yaml_front_matter(.x), webpage = .y)) |> 
+  map(as_tibble) |> 
+  list_rbind() |> 
+  filter(tags == tag_) |> 
+  group_by(series) |> 
+  group_split() |> 
+  map(~ .x |> arrange(title))
+
+for(i in seq_along(series)){
+  tag("h2", paste(series[[i]]$series |> unique(), "Series")) |> print()
+  map2(series[[i]]$title, series[[i]]$webpage, ~ a(href = .y, .x)) |> 
+    map(tags$p) |> 
+    map(tags$li) |> 
+    tags$ul() |> 
+    print()
+}
+```

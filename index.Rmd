@@ -1,0 +1,57 @@
+---
+title: What are Data Science Personas?
+---
+
+The DaSL Data Science Personas aim to be a useful toolset for a variety of projects relating to data science, from training development to software development to technology configurations and implementations.  These personas are an actively curated description of the varied types of people involved in using data at the Fred Hutch Cancer Center, a comprehensive cancer center comprised of a clinical care system and a biomedical research institute. 
+
+> You can find groups of personas that we've identified as related to specific projects, platforms or efforts using our [Keywords](tags.html) groupings page.  
+
+Stay tuned for more updates, additional personas, and new keyword groupings over time as this is an actively developing project.  
+
+## Series
+As the Fred Hutch Comprehensive Cancer Center is an organization with clinical, translational and research staff, we have organized our Data Science Personas into series that generally reflect where in the data science space they primarily work.  
+
+### 100-series 
+These personas are translational data oriented, with components of both clinical and research data use such as those in academic medical centers, clinical trialists, or translational researchers at academic research centers closely aligned with medical centers. 
+
+### 200-series 
+These personas are primarily research data oriented, which can include clinical data, such as those affiliated with a research or academic institution that is not primarily a medical center.  
+
+### 300-series 
+These personas are primarily clinical data oriented for clinical care, operations or administrative uses such as those affiliated with a hospital or  medical/cancer center. 
+
+
+
+```{r, results='asis', echo=FALSE, message=FALSE}
+library(tidyverse)
+library(here)
+library(fs)
+library(htmltools)
+library(rmarkdown)
+
+webpage <- here("_personas/") |> 
+  dir_ls() |> 
+  basename() |> 
+  (\(x) sub(".md$", ".html", x))()
+
+series <- here("_personas/") |> 
+  dir_ls() |> 
+  map2(webpage, ~ c(yaml_front_matter(.x), webpage = .y)) |> 
+  map(~ .x[!names(.x) %in% "tags"]) |> 
+  map(as_tibble) |> 
+  list_rbind() |> 
+  group_by(series) |> 
+  group_split() |> 
+  map(~ .x |> arrange(title))
+
+for(i in seq_along(series)){
+  tag("h2", paste(series[[i]]$series |> unique(), "Series")) |> print()
+  map2(series[[i]]$title, series[[i]]$webpage, ~ a(href = .y, .x)) |> 
+    map(tags$p) |> 
+    map(tags$li) |> 
+    tags$ul() |> 
+    print()
+}
+```
+
+
