@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - text: "![](/img/FHCC_Logo_FullColor_RGB.png)"
+        href: index.qmd
+    right:
+      - href: "https://hutchdatascience.org/"
+        text: DaSL
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
