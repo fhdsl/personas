@@ -3,30 +3,21 @@ title: Personas for DaSL Products
 toc: false
 ---
 
-Personas are fictionalized representations of different roles around FHCC. They 
-depict the key tasks and challenges that FHCC staff perform, as well as hopes 
-for how things could be improved in a future state. Personas help anchor 
-product design to user needs. 
+Personas are fictionalized representations of different roles around FHCC. They depict the key tasks and challenges that FHCC staff perform, as well as hopes for how things could be improved in a future state. Personas help anchor product design to user needs.
 
-The HCI group is creating personas to describe common data problems at Fred 
-Hutch. This work continues the needs assessment done in 2023.
+The HCI group is creating personas to describe common data problems at Fred Hutch. This work continues the needs assessment done in 2023.
 
 # How are we doing this work?
 
-We are conducting ongoing research using a mix of qualitative and quantitative 
-methods to understand user needs, including interviews, usage analytics, and 
-evaluative methods. 
+We are conducting ongoing research using a mix of qualitative and quantitative methods to understand user needs, including interviews, usage analytics, and evaluative methods.
 
 # Help us understand your data infrastructure needs
 
-Although personas are primarily internal documentation of user needs, we are 
-making ours public so that YOU can help us improve our understanding of data 
-infrastructure and tooling needs around Fred Hutch.
+Although personas are primarily internal documentation of user needs, we are making ours public so that YOU can help us improve our understanding of data infrastructure and tooling needs around Fred Hutch.
 
-**Our personas are a work in progress** and do not represent everything we have 
-learned. However, **we would love to hear from you** no matter what. If you see 
-a missing problem area, a factual inaccuracy, a role that you think is not 
-captured that should be -- email us at `data@fredhutch.org`.
+**Our personas are a work in progress** and do not represent everything we have learned. However, **we would love to hear from you** no matter what. If you see a missing problem area, a factual inaccuracy, a role that you think is not captured that should be -- email us at `data@fredhutch.org`.
+
+# Hello
 
 # Current personas by problem area
 
@@ -34,13 +25,13 @@ We group our personas by general problem area below.
 
 ## Running research data analyses on the cloud
 
-- Larry the Learner
-- Preeti the PI
-- Daesung the data scientist
-- Bisei the bioinformatician
+-   Larry the Learner
+-   Preeti the PI
+-   Daesung the data scientist
+-   Bisei the bioinformatician
 
 ## Working with patient data
 
-- [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
-- CARDS persona 2
-- CARDS persona 3
+-   [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
+-   CARDS persona 2
+-   CARDS persona 3
