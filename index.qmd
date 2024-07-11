@@ -23,13 +23,12 @@ We group our personas by general problem area below.
 
 ## Running research data analyses on the cloud
 
--   Larry the Learner
+-   [Larry the Learner](/family/proof/larry-the-learner.html)
 -   Preeti the PI
--   Daesung the data scientist
+-   [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html)
 -   Bisei the bioinformatician
 
 ## Working with patient data
 
--   [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
 -   CARDS persona 2
 -   CARDS persona 3

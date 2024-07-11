@@ -35,18 +35,17 @@ Collaborators: Data scientist, bioinformatics researcher Downstream users: PI
 -   May or may not know best practices for code version control
 -   Specifying the environmental contexxt needed for accurately reproducible code can be time-consuming and challenging
 -   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in cell and molecular biology and learned coding on the job)
-
 :::
 
 ::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
+
 -   A clear picture of where to start and where to go next
 -   Friendly support for figuring out the best approach to analyzing data and hte best means for doing so with HPC
 -   Easy-to-follow, easy-to-scan documentation to help him figure out programming languages, tools, and appropriate statistical methods
 -   Training in computer science and data science foundations
 -   An approachable, user-friendly GUI that is easier to learn than the command line
-
 :::
 :::
 
-# Heading 3
+# 

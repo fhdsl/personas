@@ -1,5 +1,5 @@
 ---
-title: "Larry the Learner"
+title: "Daesung the Data Scientist"
 toc-expand: 2
 ---
 
@@ -9,44 +9,37 @@ toc-expand: 2
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
--   Larry **needs** help figuring out how to get the analysis done that his PI asked him to do, and that he cannot do on Excel.
--   He **struggles** with figuring out the right steps to take to get the end result he needs.
--   **We can help him** by offering him an approachable GUI, tips on writing good quality WDLs, and ample training support.
+-   Daesung **needs** fast computing with advanced capabilities to analyze large data sets of sequenced 'omics data.
+-   He **struggles** to save his lab money by minimizing his cloud compute time, and to make sure he is following best practices for reproducible code.
+-   **We can help him** by enabling PROOF to run on a cloud back-end and making it user-friendly enough that he can use it to collaborate with his less computationally skilled labmates.
 :::
 :::
 
 ::: lightblue-highlight
-## Larry needs to get his job done but lacks the computational expertise to do it efficiently
+## Daesung needs a fast track to the cloud
 
-Larry's been asked by his PI to analyze some genomics data. It's a new kind of challenge for him, and he's excited to get started ... if only he knew what he was supposed to do! He's never used high performance computing before, and he's feeling very uncertain about how to get started. Larry has so many questions. Should he use the cluster or AWS? How does he estimate how much time he needs? And is there a cheat sheet for what commands to enter in the command line? His colleague Daesung shared some code with him to help him get started, but Larry is not totally sure what to do with it. Larry needs an approachable tool with clear instructions that can offer him some guidance on what he needs to do to get this analysis done.
+Daesung has been using HPC in his work for a while now, and he knows his way around a terminal window. But that doesn't mean he doesn't appreciate a GUI! He loved the Data Science Lab's new PROOF tool because it lets him validate code before running it and easily monitor job status. What he really wants now is a way to connect it to the cloud, so that he can use PROOF's handy job tracking features for his WDLs but access advanced functionality on AWS, like GPU computing to support machine learning. 
 :::
 
 ::: darkblue-highlight
-Collaborators: Data scientist, bioinformatics researcher Downstream users: PI
+Collaborators: Larry the learner, Bisei the bioinformatics researcher 
+Downstream users: PI
 :::
 
 ::: grid
 ::: {.g-col-12 .g-col-xl-6}
 # Key Challenges
-
--   May or may not be familiar with coding in R/Python
--   Likely unfamiliar with bash/command line
--   May or may not be familiar with appropriate statistical methods
--   May or may not know best practices for code version control
--   Specifying the environmental contexxt needed for accurately reproducible code can be time-consuming and challenging
--   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in cell and molecular biology and learned coding on the job)
+-   In-house tool that aids in workflow validation and management (PROOF) currently only works on the cluster
 
 :::
 
 ::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
--   A clear picture of where to start and where to go next
--   Friendly support for figuring out the best approach to analyzing data and hte best means for doing so with HPC
--   Easy-to-follow, easy-to-scan documentation to help him figure out programming languages, tools, and appropriate statistical methods
--   Training in computer science and data science foundations
--   An approachable, user-friendly GUI that is easier to learn than the command line
 
+-   A way to use PROOF to run analyses on the cloud
+-   A way to project AWS usage to estimate how much a job will cost if run with more data
+-   A way to help labmates less comfortable with the command line use cloud computing
 :::
 :::
 
-# Heading 3
+# 
