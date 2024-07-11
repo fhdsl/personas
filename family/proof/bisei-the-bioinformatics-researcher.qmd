@@ -45,11 +45,9 @@ Collaborators: Daesung the data scientist, Larry the learner Downstream users: P
 ::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
 
--   A clear picture of where to start and where to go next
--   Friendly support for figuring out the best approach to analyzing data and hte best means for doing so with HPC
--   Easy-to-follow, easy-to-scan documentation to help him figure out programming languages, tools, and appropriate statistical methods
--   Training in computer science and data science foundations
--   An approachable, user-friendly GUI that is easier to learn than the command line
+-   Pointers to resources for learning best practices in coding, data science methods, and code management
+-   A way to use PROOF on the cloud
+-   Training in the benefits of creating reproducible code and computational environments
 :::
 :::
 
