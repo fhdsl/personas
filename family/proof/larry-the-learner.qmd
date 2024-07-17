@@ -5,7 +5,7 @@ toc-expand: 2
 
 ::: grid
 ::: {.g-col-12 .g-col-xl-3}
-<img src="https://seankross.com/headshot/sean-kross.png" width="200" height="200"/>
+<img src="/img/larry.jpg" width="200" height="200"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
@@ -25,7 +25,6 @@ Larry's been asked by his PI to analyze some genomics data. It's a new kind of c
 Collaborators: Data scientist, bioinformatics researcher Downstream users: PI
 :::
 
-
 # Key Challenges
 
 -   May or may not be familiar with coding in R/Python
@@ -35,8 +34,6 @@ Collaborators: Data scientist, bioinformatics researcher Downstream users: PI
 -   Specifying the environmental contexxt needed for accurately reproducible code can be time-consuming and challenging
 -   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in cell and molecular biology and learned coding on the job)
 
-
-
 # Needs and Wants
 
 -   A clear picture of where to start and where to go next
@@ -45,8 +42,14 @@ Collaborators: Data scientist, bioinformatics researcher Downstream users: PI
 -   Training in computer science and data science foundations
 -   An approachable, user-friendly GUI that is easier to learn than the command line
 
-
 # Types of data used
+
 -   Omics data
 -   Phenotypic data
 -   Biomedical imaging data
+
+<div>
+
+Image attribution: "[Nicholas Kinsey](https://www.flickr.com/photos/91606868@N08/8359632184)" by [nicnek](https://www.flickr.com/photos/91606868@N08) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).
+
+</div>

@@ -5,7 +5,7 @@ toc-expand: 2
 
 ::: grid
 ::: {.g-col-12 .g-col-xl-3}
-<img src="https://seankross.com/headshot/sean-kross.png" width="200" height="200"/>
+<img src="/img/preeti.jpg" width="200" height="200"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
@@ -25,7 +25,6 @@ Preeti works hard to write successful grants and advance biomedical research. Sh
 Collaborators: Daesung the data scientist, Bisei the bioinformatics researcher, Larry the learner
 :::
 
-
 # Key Challenges
 
 -   May or may not be familiar with coding in R/Python
@@ -41,6 +40,12 @@ Collaborators: Daesung the data scientist, Bisei the bioinformatics researcher, 
 -   A fast, easy way to figure out when paying for cloud time is worth it
 -   A way to feel reassured that their lab members are using cloud computing resources wisely
 
-
 # Types of data used
--   Basic science, biological, biomedical, or clinical data depending on type of research 
+
+-   Basic science, biological, biomedical, or clinical data depending on type of research
+
+<div>
+
+Image attribution: "[Minister for Employment and UK Indian Diaspora Champion](https://www.flickr.com/photos/10246637@N04/19459927293)" by [Foreign and Commonwealth Office](https://www.flickr.com/photos/10246637@N04) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
