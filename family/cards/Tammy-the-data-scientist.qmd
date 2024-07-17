@@ -27,8 +27,7 @@ Collaborators: Data Engineers, Data Governance Analyst, Analytics Engineers, Cli
 Downstream users: Clinical/Translational Researcher, Biostatistician, Program and Service Line Managers
 :::
 
-::: grid
-::: {.g-col-12 .g-col-xl-6}
+
 # Key Challenges
 
 -   Understanding the landscape of clinical data applications at Fred Hutch, where data is stored, and how to acquire access
@@ -44,9 +43,7 @@ Downstream users: Clinical/Translational Researcher, Biostatistician, Program an
 -   Availability of time and staff limits pace and volume of help provided
 
 -   There is no unified system with all the relevant data; data must be collated from multiple systems
-:::
 
-::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
 
 -   An efficient way to store and retrieve past models/queries for future reference
@@ -55,53 +52,34 @@ Downstream users: Clinical/Translational Researcher, Biostatistician, Program an
 
     -   is PHI-approved
 
-    -   displays information about provenance, lineage, and data governance (e.g., whether a column contains PHI, what access restrictions are on the data)  
-
-    <!-- -->
+    -   displays information about provenance, lineage, and data governance (e.g., whether a column contains PHI, what access restrictions are on the data)
 
     -   supports best practices for dataset documentation
 
 -   Cloud computing environments for managing statistical/machine learning workflows
 
--   Secure platform to publish and share deliverables (e.g. Quarto/Jupyter notebooks, dashboards, datasets)  
+-   Secure platform to publish and share deliverables (e.g. Quarto/Jupyter notebooks, dashboards, datasets)
 
 -   A way to help users help themselves to expand capacity of the department
-:::
-:::
+
 
 # Types of data used
 
 -   Structured and unstructured data from the current EHR (Epic/Clarity) and historical EHR systems (ORCA/Cerner, etc.)
 
-<!-- -->
-
 -   Cancer registry data (CNeXT)
-
-<!-- -->
 
 -   Sunquest lab data
 
-<!-- -->
-
 -   Mosaiq radiation oncology data
-
-<!-- -->
 
 -   OnCore Clinical Trials Management (CTMS) system data
 
-<!-- -->
-
 -   Pyxis medication administration
-
-<!-- -->
 
 -   Gateway transplant and immunotherapy data
 
-<!-- -->
-
 -   Novel, non-clinically reported data is relevant such as research use only genetic assay results
-
-<!-- -->
 
 -   Survey and case report form type datasets
 

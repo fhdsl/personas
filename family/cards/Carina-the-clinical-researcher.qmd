@@ -27,8 +27,6 @@ Collaborators: Data Scientist, Data Governance Analyst, Biostatistician
 Downstream users: clinical research community
 :::
 
-::: grid
-::: {.g-col-12 .g-col-xl-6}
 # Key Challenges
 
 -   Lack of direct access to data slows down pace of work
@@ -38,9 +36,7 @@ Downstream users: clinical research community
 -   Combining data with data from other institutions, and making sure their resulting data sets are structured similarly to their extramural collaborators’ data
 
 -   There is no PHI-approved cloud computing platform, so all data must be stored locally and all analyses must be performed locally, limiting options and posing a security risk\
-:::
 
-::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
 
 -   Direct access to clinical data, with clear information on who to reach out to for help if she needs it
@@ -48,8 +44,6 @@ Downstream users: clinical research community
 -   A PHI-approved cloud computing platform to store and analyze data, that supports best practices for code review and version control for reproducible science
 
 -   A de-identified data asset and chart review tool that is available without additional governance review to enable exploration and discovery\
-:::
-:::
 
 # Types of data used
 

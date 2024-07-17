@@ -25,8 +25,7 @@ Bisei is busily developing her research agenda, and building out her data scienc
 Collaborators: Daesung the data scientist, Larry the learner Downstream users: Preeti the PI
 :::
 
-::: grid
-::: {.g-col-12 .g-col-xl-6}
+
 # Key Challenges
 
 -   Not always sure of best practices for cloud use and computing environments
@@ -36,19 +35,15 @@ Collaborators: Daesung the data scientist, Larry the learner Downstream users: P
 -   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in Cell and Molecular Biology and learned coding on the job)
 -   May or may not be familiar with code versioning systems like GitHub or best practices for version control
 -   Getting time on the cluster may require waiting longer than downstream users (e.g., PIs) want to wait
--   Some analysis tasks may require advanced computational features or large amounts of cluster time 
+-   Some analysis tasks may require advanced computational features or large amounts of cluster time
 -   In-house tool that aids in workflow validation and management (PROOF) currently only works on the cluster
 
-
-:::
-
-::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
 
 -   Pointers to resources for learning best practices in coding, data science methods, and code management
 -   A way to use PROOF on the cloud
 -   Training in the benefits of creating reproducible code and computational environments
-:::
-:::
 
-# 
+# Types of data used
+-   'Omics data
+-   Phenotypic data

@@ -18,27 +18,24 @@ toc-expand: 2
 ::: lightblue-highlight
 ## Daesung needs a fast track to the cloud
 
-Daesung has been using HPC in his work for a while now, and he knows his way around a terminal window. But that doesn't mean he doesn't appreciate a GUI! He loved the Data Science Lab's new PROOF tool because it lets him validate code before running it and easily monitor job status. What he really wants now is a way to connect it to the cloud, so that he can use PROOF's handy job tracking features for his WDLs but access advanced functionality on AWS, like GPU computing to support machine learning. 
+Daesung has been using HPC in his work for a while now, and he knows his way around a terminal window. But that doesn't mean he doesn't appreciate a GUI! He loved the Data Science Lab's new PROOF tool because it lets him validate code before running it and easily monitor job status. What he really wants now is a way to connect it to the cloud, so that he can use PROOF's handy job tracking features for his WDLs but access advanced functionality on AWS, like GPU computing to support machine learning.
 :::
 
 ::: darkblue-highlight
-Collaborators: Larry the learner, Bisei the bioinformatics researcher 
-Downstream users: PI
+Collaborators: Larry the learner, Bisei the bioinformatics researcher Downstream users: PI
 :::
 
-::: grid
-::: {.g-col-12 .g-col-xl-6}
+
 # Key Challenges
+
 -   In-house tool that aids in workflow validation and management (PROOF) currently only works on the cluster
 
-:::
-
-::: {.g-col-12 .g-col-xl-6}
 # Needs and Wants
 
 -   A way to use PROOF to run analyses on the cloud
 -   A way to help labmates less comfortable with the command line use cloud computing
-:::
-:::
 
-# 
+
+# Types of data used
+-   'Omics data
+-   Phenotypic data
