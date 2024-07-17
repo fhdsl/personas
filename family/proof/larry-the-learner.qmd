@@ -22,7 +22,7 @@ Larry's been asked by his PI to analyze some genomics data. It's a new kind of c
 :::
 
 ::: darkblue-highlight
-Collaborators: Data scientist, bioinformatics researcher Downstream users: PI
+Collaborators: [Daesung the Data Scientist](/family/proof/daesung-the-data-scientist.html), [Bisei the Bioinformatics Researcher](/family/proof/bisei-the-informatics-researcher.html) Downstream users: [Preeti the PI](/family/proof/preeti-the-pi.html)
 :::
 
 # Key Challenges
