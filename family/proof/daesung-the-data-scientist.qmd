@@ -5,7 +5,7 @@ toc-expand: 2
 
 ::: grid
 ::: {.g-col-12 .g-col-xl-3}
-<img src="https://seankross.com/headshot/sean-kross.png" width="200" height="200"/>
+<img src="/img/daesung.jpg" width="200" height="200"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
@@ -25,7 +25,6 @@ Daesung has been using HPC in his work for a while now, and he knows his way aro
 Collaborators: Larry the learner, Bisei the bioinformatics researcher Downstream users: PI
 :::
 
-
 # Key Challenges
 
 -   In-house tool that aids in workflow validation and management (PROOF) currently only works on the cluster
@@ -35,7 +34,13 @@ Collaborators: Larry the learner, Bisei the bioinformatics researcher Downstream
 -   A way to use PROOF to run analyses on the cloud
 -   A way to help labmates less comfortable with the command line use cloud computing
 
-
 # Types of data used
+
 -   'Omics data
 -   Phenotypic data
+
+<div>
+
+Image attribution: <a href="https://stocksnap.io/photo/laptop-computer-7ES0X4Z8UI">Photo</a> by <a href="https://stocksnap.io/author/39086">Valeriy Khan</a> on <a href="https://stocksnap.io">StockSnap</a>
+
+</div>

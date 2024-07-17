@@ -5,7 +5,7 @@ toc-expand: 2
 
 ::: grid
 ::: {.g-col-12 .g-col-xl-3}
-<img src="https://seankross.com/headshot/sean-kross.png" width="200" height="200"/>
+<img src="/img/bisei.jpg" width="200" height="200"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
@@ -24,7 +24,6 @@ Bisei is busily developing her research agenda, and building out her data scienc
 ::: darkblue-highlight
 Collaborators: Daesung the data scientist, Larry the learner Downstream users: Preeti the PI
 :::
-
 
 # Key Challenges
 
@@ -45,5 +44,12 @@ Collaborators: Daesung the data scientist, Larry the learner Downstream users: P
 -   Training in the benefits of creating reproducible code and computational environments
 
 # Types of data used
+
 -   'Omics data
 -   Phenotypic data
+
+<div>
+
+Image attribution: "[Nurse](https://www.flickr.com/photos/8404611@N06/3373106750)" by [Walt Stoneburner](https://www.flickr.com/photos/8404611@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
