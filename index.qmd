@@ -17,6 +17,8 @@ Although personas are primarily internal documentation of user needs, we are mak
 
 **Our personas are a work in progress** and do not represent everything we have learned. However, **we would love to hear from you** no matter what. If you see a missing problem area, a factual inaccuracy, a role that you think is not captured that should be -- email us at `data@fredhutch.org` or fill out this form.
 
+A big thank you to members of the FHCC community who have already helped us develop these personas, including members of the clinical analytics and financial analytics teams and other helpful individuals!
+
 # Current personas by problem area
 
 We group our personas by general problem area below.
