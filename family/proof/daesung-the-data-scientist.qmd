@@ -37,7 +37,6 @@ Downstream users: PI
 # Needs and Wants
 
 -   A way to use PROOF to run analyses on the cloud
--   A way to project AWS usage to estimate how much a job will cost if run with more data
 -   A way to help labmates less comfortable with the command line use cloud computing
 :::
 :::
