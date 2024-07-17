@@ -40,8 +40,8 @@ Collaborators: Translational Analytics Data Sciencist, Clinical Researcher Downs
 # Types of data used
 
 -   Raw and curated data about patients from EHR or other systems including patient demographics, conditions, comorbidities, treatments, location  
--   Novel, non-clinically reported data is relevant such as research use only genetic assay results  
--   Survey and case report form type datasets  
+-   Novel, non-clinically reported data is relevant such as research use only genetic assay results
+-   Survey and case report form type datasets
 
 <div>
 
