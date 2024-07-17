@@ -1,0 +1,72 @@
+---
+title: "DJ the Data Governance Analyst"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/dj.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   DJ **needs** a way to help ensure clinical data is accessed only by authorized users with appropriate permissions in place  
+-   She **struggles** with tracking access, downstream uses, and disclosures made when data leaves the database and making her workflow more efficient as each request must be reviewed upon intake.
+-   **We can help her** by encoding metadata about data governance alongside clinical data and building systems with necessary technical safeguards that only allow access if appropriate permissions are in place.
+:::
+:::
+
+::: lightblue-highlight
+## DJ needs a streamlined workflow to monitor data access
+
+Another day, another completely unexpected data governance challenge...such is the life of a data governance analyst. DJ’s mission is to make sure patients’ wishes are respected with regard to how their data is used. To maintain the insitution’s integrity and make sure the institution can account for all PHI disclosures, she tracks requests and makes sure that all prospective data use that she reviews is in compliance with HIPAA regulations. She frequently works with Tammy the Translational Analytics Data Scientist to respond to requests for data. Whenever a request for data comes in, DJ makes sure that the person requesting data has permission to use the data they are requesting. Sometimes that involves reviewing IRB protocols for the study; often it involves checking with the study PI to make sure the requester is on their study team and has appropriate training done. While a lot of cases are fairly straightforward, a few are tricky, and there are times when a good chunk of DJ’s week goes to verifying that data requestors have the right permissions, or checking with the IRB office that the data requested is in line with their approvals. Different data sets fall under different governance rules. DJ would love for some **critical metadata to be encoded alongside data**, like whether patients have given broad consent or whether the data set contains PHI, and for **researchers to be able to have access to de-identified clinical datasets on more a self-serve basis** that is still compliant with regulations to simplify the governance review.
+:::
+
+::: darkblue-highlight
+Collaborators: Translational Analytics Data Sciencist Downstream users: Researchers
+:::
+
+::: grid
+::: {.g-col-12 .g-col-xl-6}
+# Key Challenges
+
+-   For some IRB protocols it is harder to tell if the data requested is covered, for example if the appropriate permissions were given on earlier versions of the submission or if the investigator has an umbrella protocol  
+
+-   Getting all requests reviewed rapidly when many come in at once
+
+-   Determining if data are subject to and compliant with less common sets of regulations, such as WA state laws or other governance rules
+
+-   Understanding who all is on the study team, as there is no clear ‘source of truth’ for study personnel  
+:::
+
+::: {.g-col-12 .g-col-xl-6}
+# Needs and Wants
+
+-   A way for researchers to access data on a self-serve basis that systematically checks for compliance with data governance rules  
+
+-   A way to clearly tell whether clinical data belongs to patients who have consented to its use in research or not (and ideally filter out records for opt outs)  
+
+-   An automated way to end access to research team members when their IRB approvals expire   
+
+-   A clear source of truth for who is on the study team     
+:::
+:::
+
+# Types of data used
+
+-   IRB protocols and related submission documents   
+
+```{=html}
+<!-- -->
+```
+-   Training completion records   
+
+```{=html}
+<!-- -->
+```
+-   Communications with relevant subject matter experts when governance reviews are less clear  
+
+<div>
+
+Image attribution: "[woman-in-knit-gray-sweater-using-desktop-computer-3740231](https://www.flickr.com/photos/130413460@N04/49592517006)" by [publicitypod](https://www.flickr.com/photos/130413460@N04) is marked with [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/?ref=openverse).
+
+</div>

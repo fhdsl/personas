@@ -1,0 +1,64 @@
+---
+title: "Bobby the Biostatistician"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/bobby.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   Bobby **needs** direct access to analysis-ready data so he can do his statistical modeling and get his papers out faster.    
+-   He **struggles** with the lack of PHI-approved cloud computing resources to do his work.  
+-   **We can help** him by providing a PHI-approved cloud computing platform that gives him direct data access and nudges him to conform to best practices for version control and reproducible science  
+:::
+:::
+
+::: lightblue-highlight
+## DJ needs access to data and a secure cloud platform to get more papers out
+
+Bobby wants to make novel contributions to science based on quantitative analysis of clinical data. The trouble is, he can’t get a hold of that clinical data himself, the data is a mess, and it’s not always clear how to get it out of the database. Even worse, the only place he can keep data or do any analysis with it is his laptop or OneDrive. Bobby desperately wants direct access to data so that he can get whatever he needs, and go back to the source if he finds he needs something more. It would be extra awesome if he could get **access to analysis-ready data**, like data that is already OMOP-structured, to save him some work in transforming data, and get some help on best practices for reproducible research—he’s been permanently scarred by that one time he had to revisit his analyses from his first year of grad school, and kept getting different results than before. Having been the victim of identity theft himself, he really does not want to store PHI on his laptop, in case he loses his laptop and information is stolen. He wants **access to a secure cloud platform** both for security and so that he can access advanced computing features. He has some ideas that require a lot of compute time, and if there were a **PHI-approved platform for cloud computing**, he knows he could show his PI just how many doors cloud computing opens and get some really high-impact work out the door. Bobby wants to be a paper machine...if he can just get the computing machinery in place to realize his vision.
+:::
+
+::: darkblue-highlight
+Collaborators: Translational Analytics Data Sciencist, Clinical Researcher Downstream users: clinical research community
+:::
+
+::: grid
+::: {.g-col-12 .g-col-xl-6}
+# Key Challenges
+
+-   Lack of direct access to data slows down pace of work  
+
+-   There is no PHI-approved cloud computing platform, so all data must be stored locally and all analyses must be performed locally, limiting options and posing a security risk    
+:::
+
+::: {.g-col-12 .g-col-xl-6}
+# Needs and Wants
+
+-   Direct access to clinical data  
+
+-   A PHI-approved cloud computing platform to store and analyze data, that supports best practices for code review and version control for reproducible science       
+:::
+:::
+
+# Types of data used
+
+-   Raw and curated data about patients from EHR or other systems including patient demographics, conditions, comorbidities, treatments, location  
+
+```{=html}
+<!-- -->
+```
+-   Novel, non-clinically reported data is relevant such as research use only genetic assay results  
+
+```{=html}
+<!-- -->
+```
+-   Survey and case report form type datasets  
+
+<div>
+
+Image attribution: "[Man vlogging](http://nappy.co/photo/628/man-vlogging)" by [NappyStock](http://nappy.co/NappyStock) is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=openverse).
+
+</div>
