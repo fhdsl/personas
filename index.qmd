@@ -36,3 +36,5 @@ We group our personas by general problem area below.
 -   [Carina the clinical researcher](/family/cards/carina-the-clinical-researcher.html)
 -   [DJ the data governance analyst](/family/cards/DJ-data-governance-anallyst.html)
 -   [Tammy the data scientist](/family/cards/Tammy-the-data-scientist.html)
+-   [Alex the BI/analytics engineer](/family/cards/Alex-the-bi-analytics-engineer.html)
+-   [Fundikira the financial analyst](/family/cards/Fundikira-the-financial-analyst.html)
