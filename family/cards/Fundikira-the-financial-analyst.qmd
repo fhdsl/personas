@@ -61,3 +61,6 @@ Downstream users: Clinical/Translational Researcher, Biostatistician, Program an
 Image attribution: "[Women In Tech - 53](https://www.flickr.com/photos/136629440@N06/22344625928)" by [wocintechchat.com](https://www.flickr.com/photos/136629440@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
 
 </div>
+<div>
+Acknowledgments: Thanks to members of the clinical and financial analytics and data platform teams for their input!
+</div>

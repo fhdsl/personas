@@ -22,9 +22,9 @@ Alex’s job is to empower people to answer questions by building data tables an
 :::
 
 ::: darkblue-highlight
-Collaborators: Clinical analyst, Financial analyst, [Data Scientist](/family/cards/Tammy-the-data-scientist.html), [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html)
+**Collaborators:** Clinical analyst, Financial analyst, [Data Scientist](/family/cards/Tammy-the-data-scientist.html), [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html)
 
-Downstream users: Service Line Managers and clinical leaders, Embedded business analysts
+**Downstream users:** Service Line Managers and clinical leaders, Embedded business analysts
 :::
 
 # Key Challenges
@@ -63,4 +63,8 @@ Downstream users: Service Line Managers and clinical leaders, Embedded business 
 
 Image attribution: "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami" by dullhunk is licensed under CC BY 2.0.
 
+</div>
+
+<div>
+Acknowledgments: Thanks to members of the clinical and financial analytics and data platform teams for their input!
 </div>
