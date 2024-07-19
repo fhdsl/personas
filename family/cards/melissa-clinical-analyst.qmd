@@ -48,7 +48,7 @@ Melissa wants to help things run smoothly at Fred Hutch, and she does that by mo
 -   Ability to share curated datasets and appropriate documentation with selected stakeholders from a centralized platform to enable some limited self-serve data access for external stakeholders 
 -   A way to clearly communicate data definitions to end users
 
-#Data types used
+# Data types used
 
 -   EHR data
 -   Cancer registry data
