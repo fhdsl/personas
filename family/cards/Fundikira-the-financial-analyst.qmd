@@ -23,6 +23,7 @@ Fundikira’s role is to help stakeholders within Fred Hutch answer questions ab
 
 ::: darkblue-highlight
 **Collaborators:** [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), Corporate Finance Team 
+
 **Downstream users:** varies based on project and specialty but includes service line managers, strategy leadership, financial services teams, financial leadership
 
 :::

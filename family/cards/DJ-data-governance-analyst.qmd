@@ -22,8 +22,9 @@ Another day, another completely unexpected data governance challenge...such is t
 :::
 
 ::: darkblue-highlight
-Collaborators: [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html) 
-Downstream users: [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html)
+**Collaborators:** [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html)
+
+**Downstream users:** [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html)
 :::
 
 # Key Challenges

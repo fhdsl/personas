@@ -23,6 +23,7 @@ Daesung has been using HPC in his work for a while now, and he knows his way aro
 
 ::: darkblue-highlight
 **Collaborators:** [Larry the learner](/family/proof/larry-the-learner.html), [Bisei the bioinformatics researcher](/family/proof/bisei-the-bioinformatics-researcher.html) 
+
 **Downstream users:** [Preeti the PI](/family/proof/preeti-the-pi.html)
 :::
 
