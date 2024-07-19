@@ -5,7 +5,7 @@ toc-expand: 2
 
 ::: grid
 ::: {.g-col-12 .g-col-xl-3}
-<img src="/img/tammy.jpg" width="200" height="200"/>
+<img src="/img/fundikira.jpg" width="200" height="200"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
@@ -18,11 +18,11 @@ toc-expand: 2
 ::: lightblue-highlight
 ## Fundikira wants to spend his time analyzing data instead of hunting it down
 
-Fundikira’s role is to help stakeholders within Fred Hutch answer questions about the institution’s finances, whether it’s about payments received, service denials, or some other information. When a request comes to him, he figures out if the stakeholder wants a single number to answer a question, or a dashboard or dataset to play with. Then he goes hunting, browsing through Clarity and other databases he has access to figure out how to answer the question. Sometimes Fundikira only partly gets the information he needs, like when he finds tables that someone else built, but can’t find any documentation to understand how those tables were constructed. Fundikira needs all the data in one place, or at minimum a faster, more streamlined way to ingest data from other sources and join it to data from a central data lake. It would also save him time if stakeholders could have some limited self-serve access to data, for instance to add one or two new data points to the Tableau dashboards he creates for them on their own. And since people across the organization pull data in different ways and from different sources, sometimes reports have different results and he has to hunt down different data sources to figure out why. Fundikira would love way to enable consistent data definitions across the organization. 
+Fundikira’s role is to help stakeholders within Fred Hutch answer questions about the institution’s finances, whether it’s about payments received, service denials, or some other information. When a request comes to him, he figures out if the stakeholder wants a single number to answer a question, or a dashboard or dataset to play with. Then he goes hunting, browsing through Clarity and other databases he has access to figure out how to answer the question. Sometimes Fundikira only partly gets the information he needs, like when he finds tables that someone else built, but can’t find any documentation to understand how those tables were constructed. Fundikira needs all the data in one place, or at minimum a faster, more streamlined way to ingest data from other sources and join it to data from a central data lake. It would also save him time if stakeholders could have some limited self-serve access to data, for instance to add one or two new data points to the Tableau dashboards he creates for them on their own. And since people across the organization pull data in different ways and from different sources, sometimes reports have different results and he has to hunt down different data sources to figure out why. Fundikira would love way to enable consistent data definitions across the organization.
 :::
 
 ::: darkblue-highlight
-Collaborators: [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), Corporate Finance Team
+Collaborators: [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), Corporate Finance Team 
 Downstream users: varies based on project and specialty but includes service line managers, strategy leadership, financial services teams, financial leadership
 
 Downstream users: Clinical/Translational Researcher, Biostatistician, Program and Service Line Managers
@@ -36,8 +36,7 @@ Downstream users: Clinical/Translational Researcher, Biostatistician, Program an
 -   Needing to spend a lot of time cleaning data rather than doing value-add analytic work
 -   Inconsistent definitions of specific terms across teams
 -   Delays of new data objects (ex: Buildout of CEDAR tables hit roadblocks with CPT Code reference data)
--   SSMS performance issues: queries and Tableau reports connected to SQL can be slow when using standard database objects. 
-
+-   SSMS performance issues: queries and Tableau reports connected to SQL can be slow when using standard database objects.
 
 # Needs and Wants
 
@@ -46,7 +45,6 @@ Downstream users: Clinical/Translational Researcher, Biostatistician, Program an
 -   A way to ensure that data definitions are more consistent across teams and reports/dashboards
 -   An automated way to ingest data from other sources
 -   More standardized development tools across the organization
-
 
 # Types of data used
 
@@ -58,9 +56,12 @@ Downstream users: Clinical/Translational Researcher, Biostatistician, Program an
 
 <div>
 
-Image attribution: "[Women In Tech - 53](https://www.flickr.com/photos/136629440@N06/22344625928)" by [wocintechchat.com](https://www.flickr.com/photos/136629440@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+Image attribution: "[Finance_accounting_and_fintech_a_man_on_a_computer_an_6cb95359-455e-4393-bdb5-96c80267df63](https://www.flickr.com/photos/192194531@N08/52899049092)" by [digitalcreators.ch](https://www.flickr.com/photos/192194531@N08) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
 
 </div>
+
 <div>
+
 Acknowledgments: Thanks to members of the clinical and financial analytics and data platform teams for their input!
+
 </div>
