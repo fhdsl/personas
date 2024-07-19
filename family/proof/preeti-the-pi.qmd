@@ -22,12 +22,13 @@ Preeti works hard to write successful grants and advance biomedical research. Sh
 :::
 
 ::: darkblue-highlight
-Collaborators: [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Bisei the bioinformatics researcher](/family/proof/bisei-the-bioinformatics-researcher.html), [Larry the learner](/family/proof/larry-the-learner.html)
+**Collaborators:** [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Bisei the bioinformatics researcher](/family/proof/bisei-the-bioinformatics-researcher.html), [Larry the learner](/family/proof/larry-the-learner.html)
+**Downstream users:** clinical research community
 :::
 
 # Key Challenges
 
--   May or may not be familiar with coding in R/Python
+-   May or may not be familiar with coding in R/Python or HPC computing techniques
 -   Likely unfamiliar with bash/command line
 -   May or may not be familiar with appropriate statistical methods
 -   May or may not know best practices for code version control

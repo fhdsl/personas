@@ -22,35 +22,28 @@ Time, tide, and grant deadlines wait for no one, as Carina knows very well. In a
 :::
 
 ::: darkblue-highlight
-Collaborators: [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html), [DJ the Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html)
+**Collaborators:** [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html), [DJ the Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html)
 
-Downstream users: clinical research community
+**Downstream users:** clinical research community
 :::
 
 # Key Challenges
 
 -   Lack of direct access to data slows down pace of work
-
 -   Lack of direct access to data makes it hard for her to see what data is available and conduct exploratory analysis, reducing her opportunities for discovery and inspiration
-
 -   Combining data with data from other institutions, and making sure their resulting data sets are structured similarly to their extramural collaborators’ data
-
 -   There is no PHI-approved cloud computing platform, so all data must be stored locally and all analyses must be performed locally, limiting options and posing a security risk\
 
 # Needs and Wants
 
 -   Direct access to clinical data, with clear information on who to reach out to for help if she needs it
-
 -   A PHI-approved cloud computing platform to store and analyze data, that supports best practices for code review and version control for reproducible science
-
 -   A de-identified data asset and chart review tool that is available without additional governance review to enable exploration and discovery\
 
 # Types of data used
 
 -   Data about patients from EHR or other systems including patient demographics, conditions, comorbidities, treatments, location
-
 -   Novel, non-clinically reported data is relevant such as research use only genetic assay results
-
 -   Survey and case report form type datasets
 
 <div>

@@ -22,7 +22,8 @@ Bisei is busily developing her research agenda, and building out her data scienc
 :::
 
 ::: darkblue-highlight
-Collaborators: Daesung the data scientist, Larry the learner Downstream users: Preeti the PI
+**Collaborators:** Daesung the data scientist, Larry the learner 
+**Downstream users:** Preeti the PI
 :::
 
 # Key Challenges

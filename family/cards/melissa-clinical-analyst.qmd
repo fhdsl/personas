@@ -22,8 +22,8 @@ Melissa wants to help things run smoothly at Fred Hutch, and she does that by mo
 :::
 
 ::: darkblue-highlight
-Collaborators: Epic Reporting Analysts, Clinical Analytics Systems Educator, [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html) 
-Downstream users: Super Users, [Business Analysts](/family/cards/Bashir-the-business-analyst.html), Clinical Leaders
+**Collaborators:** Other roles on the clinical analytics team such as epic report analysts, [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html) 
+**Downstream users:** Super Users, [Bashir the Business Analyst](/family/cards/Bashir-the-business-analyst.html), Clinical Leaders
 :::
 
 

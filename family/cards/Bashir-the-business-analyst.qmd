@@ -23,9 +23,9 @@ Bashir is tasked with being an expert in a discrete data area or data system and
 :::
 
 ::: darkblue-highlight
-Collaborators: [Clinical Analyst](/family/cards/DJ-data-governance-analyst.html), [BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html)
+**Collaborators:** [Clinical Analyst](/family/cards/DJ-data-governance-analyst.html), [BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html)
 
-Downstream users: Program and Service Line Managers, Clinical leaders
+**Downstream users:** Program and Service Line Managers, Clinical leaders
 :::
 
 # Key Challenges

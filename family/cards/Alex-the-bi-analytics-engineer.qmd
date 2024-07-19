@@ -22,9 +22,9 @@ Alex’s job is to empower people to answer questions by building data tables an
 :::
 
 ::: darkblue-highlight
-**Collaborators:** Clinical analyst, Financial analyst, [Data Scientist](/family/cards/Tammy-the-data-scientist.html), [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html)
+**Collaborators:** [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html), [Fundikira the Financial Analyst](/family/cards/fundikira-the-financial-analyst.html), [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html), [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html)
 
-**Downstream users:** Service Line Managers and clinical leaders, Embedded business analysts
+**Downstream users:** Service Line Managers and clinical leaders, [Bashir the Business Analyst](/family/cards/Bashir-the-business-analyst.html)
 :::
 
 # Key Challenges

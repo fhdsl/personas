@@ -22,20 +22,18 @@ Bobby wants to make novel contributions to science based on quantitative analysi
 :::
 
 ::: darkblue-highlight
-Collaborators: [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html), [Carina the Clinical Researcher](family/cards/Carina-the-clinical-researcher.html) 
-Downstream users: clinical research community
+**Collaborators:** [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html), [Carina the Clinical Researcher](family/cards/Carina-the-clinical-researcher.html) 
+**Downstream users:** clinical research community
 :::
 
 # Key Challenges
 
 -   Lack of direct access to data slows down pace of work
-
 -   There is no PHI-approved cloud computing platform, so all data must be stored locally and all analyses must be performed locally, limiting options and posing a security risk
 
 # Needs and Wants
 
 -   Direct access to clinical data
-
 -   A PHI-approved cloud computing platform to store and analyze data, that supports best practices for code review and version control for reproducible science
 
 # Types of data used
