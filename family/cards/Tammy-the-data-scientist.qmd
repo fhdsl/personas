@@ -22,7 +22,7 @@ Researchers at the Hutch need access to adult oncology program clinical data, an
 :::
 
 ::: darkblue-highlight
-**Collaborators:** Data Engineers, [Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), Analytics Engineers, Clinical Analyst
+**Collaborators:** Data Engineers, [Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
 
 **Downstream users:** [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html), Program and Service Line Managers
 :::
