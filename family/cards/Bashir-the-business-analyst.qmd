@@ -57,3 +57,9 @@ Downstream users: Program and Service Line Managers, Clinical leaders
 Image attribution: "[cool man in blue suit tries to charm females through the computer screen](https://www.flickr.com/photos/145100595@N04/28057236290)" by [jacobisamodel](https://www.flickr.com/photos/145100595@N04) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
 
 </div>
+
+<div>
+
+Acknowledgments: thanks to the business analysts from the FHCC community who gave input on this persona!
+
+</div>

@@ -38,3 +38,4 @@ We group our personas by general problem area below.
 -   [Tammy the data scientist](/family/cards/Tammy-the-data-scientist.html)
 -   [Alex the BI/analytics engineer](/family/cards/Alex-the-bi-analytics-engineer.html)
 -   [Fundikira the financial analyst](/family/cards/Fundikira-the-financial-analyst.html)
+-   [Bashir the business analyst](/family/cards/Bashir-the-business-analyst.html)
