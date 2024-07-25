@@ -22,7 +22,7 @@ Time, tide, and grant deadlines wait for no one, as Carina knows very well. In a
 :::
 
 ::: darkblue-highlight
-**Collaborators:** [Tammy the Data Scientist](/family/cards/Tammy-the-data-scientist.html), [DJ the Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html)
+**Collaborators:** [Daisy the Data Scientist](/family/cards/Daisy-the-data-scientist.html), [DJ the Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html)
 
 **Downstream users:** clinical research community
 :::
