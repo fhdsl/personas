@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "family/cards/Bashir-the-business-analyst.html",
+    "href": "family/cards/Bashir-the-business-analyst.html",
+    "title": "Bashir the business analyst",
+    "section": "",
+    "text": "Bashir needs access to analysis-ready data and a tool to visualize and break down data as needed\nHe struggles with understanding what data definitions are used when and with making sure he is using the best and most comprehensive data to answer his questions\nWe can help him by giving him broader access to curated data sets and by helping his colleagues streamline curated dataset creation"
+  },
+  {
+    "objectID": "family/cards/Bashir-the-business-analyst.html#bashir-needs-comprehensive-well-documented-data-to-drive-decision-making",
+    "href": "family/cards/Bashir-the-business-analyst.html#bashir-needs-comprehensive-well-documented-data-to-drive-decision-making",
+    "title": "Bashir the business analyst",
+    "section": "Bashir needs comprehensive, well-documented data to drive decision-making",
+    "text": "Bashir needs comprehensive, well-documented data to drive decision-making\nBashir is tasked with being an expert in a discrete data area or data system and improvement efforts associated with that area (for example, clinical trials, patient safety reporting, Press Ganey, etc.) He wants to answer critical questions for clinical leaders, and identify opportunities for growth that could contribute to the Hutch’s mission of providing excellent care and doing impactful science. How are patient safety issues changing over time? How can we most efficiently use our clinical capacity? To answer these questions, Bashir needs to work with stakeholders to figure out what they’re really asking for, then pull together tables or visualizations of data from multiple sources (e.g., clinical care, claims and insurance data, clinical trials data, operations data). Rather than work with raw data in SQL or other languages, Bashir gets Tableau visualizations or Excel datasets either from his own sources (e.g., a patient safety portal) or from the Clinical Analytics Team or DPT. Although he doesn’t want to delve too much into the raw data, for some questions he’d love an easy way to play with a broader set of analysis-ready data so that he can get more data easily when he needs it. Sometimes Bashir spots discrepancies between different visualizations or datasets. He may or may not be able to access the raw data, so he needs some back and forth with other teams to understand the source of the discrepancy. More consistent definitions across visualizations and datasets might save him some time."
+  },
+  {
+    "objectID": "family/cards/Daisy-the-data-scientist.html",
+    "href": "family/cards/Daisy-the-data-scientist.html",
+    "title": "Daisy the Data Scientist",
+    "section": "",
+    "text": "Daisy needs to partner with clinical researchers and stakeholders to answer data-driven questions about Fred Hutch and its patients using real-world data.\nShe struggles to efficiently explore data, conduct analyses, and distribute results on the organization’s data infrastructure, and to align her practices with data governance policies.\nWe can help her by creating a secure platform with sufficient compute resources and clear data governance policies for doing data science with regulated, sensitive data."
+  },
+  {
+    "objectID": "family/cards/Daisy-the-data-scientist.html#daisy-needs-a-platform-for-data-science-that-aligns-with-data-classification-policies",
+    "href": "family/cards/Daisy-the-data-scientist.html#daisy-needs-a-platform-for-data-science-that-aligns-with-data-classification-policies",
+    "title": "Daisy the Data Scientist",
+    "section": "Daisy needs a platform for data science that aligns with data classification policies",
+    "text": "Daisy needs a platform for data science that aligns with data classification policies\nClinical researchers and leaders at Fred Hutch have many questions about Fred Hutch’s patients and their health care. Enter Daisy the data scientist! Daisy is here to help answer those questions using data from the many clinical applications and programs used to deliver care, known as “real world data” (RWD). It’s a breeze for Daisy to work with data in structured, discrete formats. Unfortunately the real world is messy, and so are its data structures. Daisy struggles to make use of the plethora of unstructured data formats produced in a healthcare organization. It seems like many of the out-of-the-box NLP systems that she needs are not designed for healthcare. Who knew? Daisy does her best to work with them, but she has neither the required compute resources nor a secure workspace to adapt these models and evaluate their performance. And then there are the many stakeholders who are coming to her with questions about AI and looking for her help in applying LLMs to clinical data. Daisy wishes her institution would offer guidance for how to use these new large language models, a platform suitable for development, and a professional community to help adapt her skills to this new data science paradigm. As a data scientist, Daisy needs to make sure that there are good foundations in place for advanced analytics, model development, and experimentation before she starts applying fancy new models and tools. How can she help stakeholders develop sound epidemiological questions? Does she have the tools for reproducible analysis? How can she find the right data to apply to the right question at the right time?"
+  },
+  {
+    "objectID": "family/cards/Fundikira-the-financial-analyst.html",
+    "href": "family/cards/Fundikira-the-financial-analyst.html",
+    "title": "Fundikira the Financial Analyst",
+    "section": "",
+    "text": "Fundikira needs tools to help stakeholders answer critical questions about financial data\nHe struggles discovering and joining data from beyond Clarity\nWe can help him by giving him a data lake and a faster process for ingesting additional data, so that he can focus on analyzing data rather than getting it"
+  },
+  {
+    "objectID": "family/cards/Fundikira-the-financial-analyst.html#fundikira-wants-to-spend-his-time-analyzing-data-instead-of-hunting-it-down",
+    "href": "family/cards/Fundikira-the-financial-analyst.html#fundikira-wants-to-spend-his-time-analyzing-data-instead-of-hunting-it-down",
+    "title": "Fundikira the Financial Analyst",
+    "section": "Fundikira wants to spend his time analyzing data instead of hunting it down",
+    "text": "Fundikira wants to spend his time analyzing data instead of hunting it down\nFundikira’s role is to help stakeholders within Fred Hutch answer questions about the institution’s finances, whether it’s about payments received, service denials, or some other information. When a request comes to him, he figures out if the stakeholder wants a single number to answer a question, or a dashboard or dataset to play with. Then he goes hunting, browsing through Clarity and other databases he has access to figure out how to answer the question. Sometimes Fundikira only partly gets the information he needs, like when he finds tables that someone else built, but can’t find any documentation to understand how those tables were constructed. Fundikira needs all the data in one place, or at minimum a faster, more streamlined way to ingest data from other sources and join it to data from a central data lake. It would also save him time if stakeholders could have some limited self-serve access to data, for instance to add one or two new data points to the Tableau dashboards he creates for them on their own. And since people across the organization pull data in different ways and from different sources, sometimes reports have different results and he has to hunt down different data sources to figure out why. Fundikira would love way to enable consistent data definitions across the organization."
+  },
+  {
+    "objectID": "family/cards/melissa-clinical-analyst.html",
+    "href": "family/cards/melissa-clinical-analyst.html",
+    "title": "Melissa the Clinical Analyst",
+    "section": "",
+    "text": "Melissa needs to access data about clinical operations and quality-related incidents to assess and improve clinical care.\nShe struggles to access additional datasets needed for reporting and to make sure all stakeholders are aligned on data definitions.\nWe can help her by facilitating access to raw or external data and by providing her team a better way to create and document curated datasets to monitor operations and quality indicators."
+  },
+  {
+    "objectID": "family/cards/melissa-clinical-analyst.html#melissa-needs-a-unified-data-source-and-code-repository-to-make-sure-everyone-is-using-the-right-source-of-truth",
+    "href": "family/cards/melissa-clinical-analyst.html#melissa-needs-a-unified-data-source-and-code-repository-to-make-sure-everyone-is-using-the-right-source-of-truth",
+    "title": "Melissa the Clinical Analyst",
+    "section": "Melissa needs a unified data source and code repository to make sure everyone is using the right “source of truth”",
+    "text": "Melissa needs a unified data source and code repository to make sure everyone is using the right “source of truth”\nMelissa wants to help things run smoothly at Fred Hutch, and she does that by monitoring clinical operations and reporting on quality improvement strategies. What percentage of patients have filled out patient-reported outcomes (PROs)? How many patients are referred to Fred Hutch for cancer treatment? How many medical errors or near misses have there been in the last month? Melissa needs to answer all these questions and more, pulling data from multiple systems like the EHR, lab data systems, cancer registry data, and even data from phone systems. With so many data sources structured in different ways, there are many possible “sources of truth”. Melissa needs to both define what she’s looking for and figure out where to get it. But getting data from so many different sources can take a lot of time.  Melissa needs data in a central platform, structured in a way that makes sense for her work. Since she’ll never get all the data she needs in one place, she needs to be able to easily join curated datasets to raw data from Epic’s warehouse, or even to excel sheets of chart abstracted data from stakeholders, as needed. And after all the work that goes into defining what data to get, Melissa needs a central repository for code snippets and the definitions and documentation associated with data objects so she can share them with her colleagues and make sure everyone is using the right “source of truth” for a given project. It would also save her time if she had more tools to automate parts of her workflow."
+  },
+  {
+    "objectID": "family/proof/bisei-the-bioinformatics-researcher.html",
+    "href": "family/proof/bisei-the-bioinformatics-researcher.html",
+    "title": "Bisei the bioinformatics researcher",
+    "section": "",
+    "text": "Bisei needs a little help learning the best practices for HPC work to minimize computing time and duplicated effort.\nShe struggles to figure out what steps are needed to conform to best practices.\nWe can help her by training her on best practices for when she uses PROOF with a cloud back-end."
+  },
+  {
+    "objectID": "family/proof/bisei-the-bioinformatics-researcher.html#bisei-wants-tools-to-do-her-work-in-a-reproducible-manner",
+    "href": "family/proof/bisei-the-bioinformatics-researcher.html#bisei-wants-tools-to-do-her-work-in-a-reproducible-manner",
+    "title": "Bisei the bioinformatics researcher",
+    "section": "Bisei wants tools to do her work in a reproducible manner",
+    "text": "Bisei wants tools to do her work in a reproducible manner\nBisei is busily developing her research agenda, and building out her data science analysis skills is an important building block for her future work. Bisei knows that time is money, both in terms of computing time and in terms of time spent figuring out her collaborators’ code. Bisei has a project coming up that may need some cloud computing time, and before she starts running up AWS bills she wants to make sure she knows the best practices in writing efficient code to minimize computing time. She also wants to write reproducible code and practice good version control to avoid duplication of effort. But Bisei is still learning how to build and run complex workflows, and truth be told she is not 100% comfortable with a command-line interface yet. And it’s not always easy to find the right resources, or figure out what the best practices are. Bisei could use an easy-to-use tool that helps her test and troubleshoot workflows before sending them to the cloud, then seamlessly switch to AWS when she needs it."
+  },
+  {
+    "objectID": "family/proof/larry-the-learner.html",
+    "href": "family/proof/larry-the-learner.html",
+    "title": "Larry the Learner",
+    "section": "",
+    "text": "Larry needs help figuring out how to get the analysis done that his PI asked him to do, and that he cannot do on Excel.\nHe struggles with figuring out the right steps to take to get the end result he needs.\nWe can help him by offering him an approachable GUI, tips on writing good quality WDLs, and ample training support."
+  },
+  {
+    "objectID": "family/proof/larry-the-learner.html#larry-needs-to-get-his-job-done-but-lacks-the-computational-expertise-to-do-it-efficiently",
+    "href": "family/proof/larry-the-learner.html#larry-needs-to-get-his-job-done-but-lacks-the-computational-expertise-to-do-it-efficiently",
+    "title": "Larry the Learner",
+    "section": "Larry needs to get his job done but lacks the computational expertise to do it efficiently",
+    "text": "Larry needs to get his job done but lacks the computational expertise to do it efficiently\nLarry’s been asked by his PI to analyze some genomics data. It’s a new kind of challenge for him, and he’s excited to get started … if only he knew what he was supposed to do! He’s never used high performance computing before, and he’s feeling very uncertain about how to get started. Larry has so many questions. Should he use the cluster or AWS? How does he estimate how much time he needs? And is there a cheat sheet for what commands to enter in the command line? His colleague Daesung shared some code with him to help him get started, but Larry is not totally sure what to do with it. Larry needs an approachable tool with clear instructions that can offer him some guidance on what he needs to do to get this analysis done."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Personas for DaSL Products",
@@ -19,90 +103,6 @@
     "title": "Personas for DaSL Products",
     "section": "Working with patient data",
     "text": "Working with patient data\n\nBobby the biostatistician\nCarina the clinical researcher\nDJ the data governance analyst\nDaisy the data scientist\nAlex the BI/analytics engineer\nFundikira the financial analyst\nBashir the business analyst\nMelissa the clinical analyst"
-  },
-  {
-    "objectID": "family/cards/Daisy-the-data-scientist.html",
-    "href": "family/cards/Daisy-the-data-scientist.html",
-    "title": "Daisy the Data Scientist",
-    "section": "",
-    "text": "Daisy needs to partner with clinical researchers and stakeholders to answer data-driven questions about Fred Hutch and its patients using real-world data.\nShe struggles to efficiently explore data, conduct analyses, and distribute results on the organization’s data infrastructure, and to align her practices with data governance policies.\nWe can help her by creating a secure platform with sufficient compute resources and clear data governance policies for doing data science with regulated, sensitive data."
-  },
-  {
-    "objectID": "family/cards/Daisy-the-data-scientist.html#daisy-needs-a-platform-for-data-science-that-aligns-with-data-classification-policies",
-    "href": "family/cards/Daisy-the-data-scientist.html#daisy-needs-a-platform-for-data-science-that-aligns-with-data-classification-policies",
-    "title": "Daisy the Data Scientist",
-    "section": "Daisy needs a platform for data science that aligns with data classification policies",
-    "text": "Daisy needs a platform for data science that aligns with data classification policies\nClinical researchers and leaders at Fred Hutch have many questions about Fred Hutch’s patients and their health care. Enter Daisy the data scientist! Daisy is here to help answer those questions using data from the many clinical applications and programs used to deliver care, known as “real world data” (RWD). It’s a breeze for Daisy to work with data in structured, discrete formats. Unfortunately the real world is messy, and so are its data structures. Daisy struggles to make use of the plethora of unstructured data formats produced in a healthcare organization. It seems like many of the out-of-the-box NLP systems that she needs are not designed for healthcare. Who knew? Daisy does her best to work with them, but she has neither the required compute resources nor a secure workspace to adapt these models and evaluate their performance. And then there are the many stakeholders who are coming to her with questions about AI and looking for her help in applying LLMs to clinical data. Daisy wishes her institution would offer guidance for how to use these new large language models, a platform suitable for development, and a professional community to help adapt her skills to this new data science paradigm. As a data scientist, Daisy needs to make sure that there are good foundations in place for advanced analytics, model development, and experimentation before she starts applying fancy new models and tools. How can she help stakeholders develop sound epidemiological questions? Does she have the tools for reproducible analysis? How can she find the right data to apply to the right question at the right time?"
-  },
-  {
-    "objectID": "family/cards/Bashir-the-business-analyst.html",
-    "href": "family/cards/Bashir-the-business-analyst.html",
-    "title": "Bashir the business analyst",
-    "section": "",
-    "text": "Bashir needs access to analysis-ready data and a tool to visualize and break down data as needed\nHe struggles with understanding what data definitions are used when and with making sure he is using the best and most comprehensive data to answer his questions\nWe can help him by giving him broader access to curated data sets and by helping his colleagues streamline curated dataset creation"
-  },
-  {
-    "objectID": "family/cards/Bashir-the-business-analyst.html#bashir-needs-comprehensive-well-documented-data-to-drive-decision-making",
-    "href": "family/cards/Bashir-the-business-analyst.html#bashir-needs-comprehensive-well-documented-data-to-drive-decision-making",
-    "title": "Bashir the business analyst",
-    "section": "Bashir needs comprehensive, well-documented data to drive decision-making",
-    "text": "Bashir needs comprehensive, well-documented data to drive decision-making\nBashir is tasked with being an expert in a discrete data area or data system and improvement efforts associated with that area (for example, clinical trials, patient safety reporting, Press Ganey, etc.) He wants to answer critical questions for clinical leaders, and identify opportunities for growth that could contribute to the Hutch’s mission of providing excellent care and doing impactful science. How are patient safety issues changing over time? How can we most efficiently use our clinical capacity? To answer these questions, Bashir needs to work with stakeholders to figure out what they’re really asking for, then pull together tables or visualizations of data from multiple sources (e.g., clinical care, claims and insurance data, clinical trials data, operations data). Rather than work with raw data in SQL or other languages, Bashir gets Tableau visualizations or Excel datasets either from his own sources (e.g., a patient safety portal) or from the Clinical Analytics Team or DPT. Although he doesn’t want to delve too much into the raw data, for some questions he’d love an easy way to play with a broader set of analysis-ready data so that he can get more data easily when he needs it. Sometimes Bashir spots discrepancies between different visualizations or datasets. He may or may not be able to access the raw data, so he needs some back and forth with other teams to understand the source of the discrepancy. More consistent definitions across visualizations and datasets might save him some time."
-  },
-  {
-    "objectID": "family/cards/Fundikira-the-financial-analyst.html",
-    "href": "family/cards/Fundikira-the-financial-analyst.html",
-    "title": "Fundikira the Financial Analyst",
-    "section": "",
-    "text": "Fundikira needs tools to help stakeholders answer critical questions about financial data\nHe struggles discovering and joining data from beyond Clarity\nWe can help him by giving him a data lake and a faster process for ingesting additional data, so that he can focus on analyzing data rather than getting it"
-  },
-  {
-    "objectID": "family/cards/Fundikira-the-financial-analyst.html#fundikira-wants-to-spend-his-time-analyzing-data-instead-of-hunting-it-down",
-    "href": "family/cards/Fundikira-the-financial-analyst.html#fundikira-wants-to-spend-his-time-analyzing-data-instead-of-hunting-it-down",
-    "title": "Fundikira the Financial Analyst",
-    "section": "Fundikira wants to spend his time analyzing data instead of hunting it down",
-    "text": "Fundikira wants to spend his time analyzing data instead of hunting it down\nFundikira’s role is to help stakeholders within Fred Hutch answer questions about the institution’s finances, whether it’s about payments received, service denials, or some other information. When a request comes to him, he figures out if the stakeholder wants a single number to answer a question, or a dashboard or dataset to play with. Then he goes hunting, browsing through Clarity and other databases he has access to figure out how to answer the question. Sometimes Fundikira only partly gets the information he needs, like when he finds tables that someone else built, but can’t find any documentation to understand how those tables were constructed. Fundikira needs all the data in one place, or at minimum a faster, more streamlined way to ingest data from other sources and join it to data from a central data lake. It would also save him time if stakeholders could have some limited self-serve access to data, for instance to add one or two new data points to the Tableau dashboards he creates for them on their own. And since people across the organization pull data in different ways and from different sources, sometimes reports have different results and he has to hunt down different data sources to figure out why. Fundikira would love way to enable consistent data definitions across the organization."
-  },
-  {
-    "objectID": "family/cards/Bobby-the-biostatistician.html",
-    "href": "family/cards/Bobby-the-biostatistician.html",
-    "title": "Bobby the Biostatistician",
-    "section": "",
-    "text": "Bobby needs direct access to analysis-ready data so he can do his statistical modeling and get his papers out faster.\nHe struggles with the lack of PHI-approved cloud computing resources to do his work.\nWe can help him by providing a PHI-approved cloud computing platform that gives him direct data access and nudges him to conform to best practices for version control and reproducible science"
-  },
-  {
-    "objectID": "family/cards/Bobby-the-biostatistician.html#bobby-needs-access-to-data-and-a-secure-cloud-platform-to-get-more-papers-out",
-    "href": "family/cards/Bobby-the-biostatistician.html#bobby-needs-access-to-data-and-a-secure-cloud-platform-to-get-more-papers-out",
-    "title": "Bobby the Biostatistician",
-    "section": "Bobby needs access to data and a secure cloud platform to get more papers out",
-    "text": "Bobby needs access to data and a secure cloud platform to get more papers out\nBobby wants to make novel contributions to science based on quantitative analysis of clinical data. The trouble is, he can’t get a hold of that clinical data himself, the data is a mess, and it’s not always clear how to get it out of the database. Even worse, the only place he can keep data or do any analysis with it is his laptop or OneDrive. Bobby desperately wants direct access to data so that he can get whatever he needs, and go back to the source if he finds he needs something more. It would be extra awesome if he could get access to analysis-ready data, like data that is already OMOP-structured, to save him some work in transforming data, and get some help on best practices for reproducible research—he’s been permanently scarred by that one time he had to revisit his analyses from his first year of grad school, and kept getting different results than before. Having been the victim of identity theft himself, he really does not want to store PHI on his laptop, in case he loses his laptop and information is stolen. He wants access to a secure cloud platform both for security and so that he can access advanced computing features. He has some ideas that require a lot of compute time, and if there were a PHI-approved platform for cloud computing, he knows he could show his PI just how many doors cloud computing opens and get some really high-impact work out the door. Bobby wants to be a paper machine…if he can just get the computing machinery in place to realize his vision."
-  },
-  {
-    "objectID": "family/proof/preeti-the-pi.html",
-    "href": "family/proof/preeti-the-pi.html",
-    "title": "Preeti the PI",
-    "section": "",
-    "text": "Preeti needs cost-effective computational resources for her lab members to execute the necessary research for future papers and grant proposals.\nShe struggles to see the advantages of cloud-based computing when there’s a perfectly good (and free) cluster on-premises.\nWe can help her by providing tools to track spending on cloud-based analyses and training her lab members to optimize first using the cluster via PROOF."
-  },
-  {
-    "objectID": "family/proof/preeti-the-pi.html#preeti-wants-to-help-her-lab-members-and-manage-her-money",
-    "href": "family/proof/preeti-the-pi.html#preeti-wants-to-help-her-lab-members-and-manage-her-money",
-    "title": "Preeti the PI",
-    "section": "Preeti wants to help her lab members and manage her money",
-    "text": "Preeti wants to help her lab members and manage her money\nPreeti works hard to write successful grants and advance biomedical research. She cares deeply about both managing her federal grant money wisely and mentoring lab members who will go on to build their own incredible careers. Although she doesn’t know too much about cloud computing herself, when her postdocs talk to her about it, she’s willing to listen. Unfortunately, they don’t always have the information she needs. Preeti needs to know the value of paying for her staff to use AWS instead of her institution’s cluster, which costs her nothing. She knows the cluster comes with a wait time, but that can be planned for. Running analyses that take longer than expected or fail and need to be redone can cost money she’s not sure how to budget for, and she’s not always sure how much time saving would justify the expense. Preeti needs to know that when her staff uses PROOF, they’re choosing the right back end for it. She needs to know that they have the resources to make informed choices. And she needs to know that paying for cloud use is worth it."
-  },
-  {
-    "objectID": "family/proof/bisei-the-bioinformatics-researcher.html",
-    "href": "family/proof/bisei-the-bioinformatics-researcher.html",
-    "title": "Bisei the bioinformatics researcher",
-    "section": "",
-    "text": "Bisei needs a little help learning the best practices for HPC work to minimize computing time and duplicated effort.\nShe struggles to figure out what steps are needed to conform to best practices.\nWe can help her by training her on best practices for when she uses PROOF with a cloud back-end."
-  },
-  {
-    "objectID": "family/proof/bisei-the-bioinformatics-researcher.html#bisei-wants-tools-to-do-her-work-in-a-reproducible-manner",
-    "href": "family/proof/bisei-the-bioinformatics-researcher.html#bisei-wants-tools-to-do-her-work-in-a-reproducible-manner",
-    "title": "Bisei the bioinformatics researcher",
-    "section": "Bisei wants tools to do her work in a reproducible manner",
-    "text": "Bisei wants tools to do her work in a reproducible manner\nBisei is busily developing her research agenda, and building out her data science analysis skills is an important building block for her future work. Bisei knows that time is money, both in terms of computing time and in terms of time spent figuring out her collaborators’ code. Bisei has a project coming up that may need some cloud computing time, and before she starts running up AWS bills she wants to make sure she knows the best practices in writing efficient code to minimize computing time. She also wants to write reproducible code and practice good version control to avoid duplication of effort. But Bisei is still learning how to build and run complex workflows, and truth be told she is not 100% comfortable with a command-line interface yet. And it’s not always easy to find the right resources, or figure out what the best practices are. Bisei could use an easy-to-use tool that helps her test and troubleshoot workflows before sending them to the cloud, then seamlessly switch to AWS when she needs it."
   },
   {
     "objectID": "LICENSE.html",
@@ -126,18 +126,32 @@
     "text": "Daesung needs a fast track to the cloud\nDaesung has been using HPC in his work for a while now, and he knows his way around a terminal window. But that doesn’t mean he doesn’t appreciate a GUI! He loved the Data Science Lab’s new PROOF tool because it lets him validate code before running it and easily monitor job status. What he really wants now is a way to connect it to the cloud, so that he can use PROOF’s handy job tracking features for his WDLs but access advanced functionality on AWS, like GPU computing to support machine learning."
   },
   {
-    "objectID": "family/proof/larry-the-learner.html",
-    "href": "family/proof/larry-the-learner.html",
-    "title": "Larry the Learner",
+    "objectID": "family/proof/preeti-the-pi.html",
+    "href": "family/proof/preeti-the-pi.html",
+    "title": "Preeti the PI",
     "section": "",
-    "text": "Larry needs help figuring out how to get the analysis done that his PI asked him to do, and that he cannot do on Excel.\nHe struggles with figuring out the right steps to take to get the end result he needs.\nWe can help him by offering him an approachable GUI, tips on writing good quality WDLs, and ample training support."
+    "text": "Preeti needs cost-effective computational resources for her lab members to execute the necessary research for future papers and grant proposals.\nShe struggles to see the advantages of cloud-based computing when there’s a perfectly good (and free) cluster on-premises.\nWe can help her by providing tools to track spending on cloud-based analyses and training her lab members to optimize first using the cluster via PROOF."
   },
   {
-    "objectID": "family/proof/larry-the-learner.html#larry-needs-to-get-his-job-done-but-lacks-the-computational-expertise-to-do-it-efficiently",
-    "href": "family/proof/larry-the-learner.html#larry-needs-to-get-his-job-done-but-lacks-the-computational-expertise-to-do-it-efficiently",
-    "title": "Larry the Learner",
-    "section": "Larry needs to get his job done but lacks the computational expertise to do it efficiently",
-    "text": "Larry needs to get his job done but lacks the computational expertise to do it efficiently\nLarry’s been asked by his PI to analyze some genomics data. It’s a new kind of challenge for him, and he’s excited to get started … if only he knew what he was supposed to do! He’s never used high performance computing before, and he’s feeling very uncertain about how to get started. Larry has so many questions. Should he use the cluster or AWS? How does he estimate how much time he needs? And is there a cheat sheet for what commands to enter in the command line? His colleague Daesung shared some code with him to help him get started, but Larry is not totally sure what to do with it. Larry needs an approachable tool with clear instructions that can offer him some guidance on what he needs to do to get this analysis done."
+    "objectID": "family/proof/preeti-the-pi.html#preeti-wants-to-help-her-lab-members-and-manage-her-money",
+    "href": "family/proof/preeti-the-pi.html#preeti-wants-to-help-her-lab-members-and-manage-her-money",
+    "title": "Preeti the PI",
+    "section": "Preeti wants to help her lab members and manage her money",
+    "text": "Preeti wants to help her lab members and manage her money\nPreeti works hard to write successful grants and advance biomedical research. She cares deeply about both managing her federal grant money wisely and mentoring lab members who will go on to build their own incredible careers. Although she doesn’t know too much about cloud computing herself, when her postdocs talk to her about it, she’s willing to listen. Unfortunately, they don’t always have the information she needs. Preeti needs to know the value of paying for her staff to use AWS instead of her institution’s cluster, which costs her nothing. She knows the cluster comes with a wait time, but that can be planned for. Running analyses that take longer than expected or fail and need to be redone can cost money she’s not sure how to budget for, and she’s not always sure how much time saving would justify the expense. Preeti needs to know that when her staff uses PROOF, they’re choosing the right back end for it. She needs to know that they have the resources to make informed choices. And she needs to know that paying for cloud use is worth it."
+  },
+  {
+    "objectID": "family/cards/Bobby-the-biostatistician.html",
+    "href": "family/cards/Bobby-the-biostatistician.html",
+    "title": "Bobby the Biostatistician",
+    "section": "",
+    "text": "Bobby needs direct access to analysis-ready data so he can do his statistical modeling and get his papers out faster.\nHe struggles with the lack of PHI-approved cloud computing resources to do his work.\nWe can help him by providing a PHI-approved cloud computing platform that gives him direct data access and nudges him to conform to best practices for version control and reproducible science"
+  },
+  {
+    "objectID": "family/cards/Bobby-the-biostatistician.html#bobby-needs-access-to-data-and-a-secure-cloud-platform-to-get-more-papers-out",
+    "href": "family/cards/Bobby-the-biostatistician.html#bobby-needs-access-to-data-and-a-secure-cloud-platform-to-get-more-papers-out",
+    "title": "Bobby the Biostatistician",
+    "section": "Bobby needs access to data and a secure cloud platform to get more papers out",
+    "text": "Bobby needs access to data and a secure cloud platform to get more papers out\nBobby wants to make novel contributions to science based on quantitative analysis of clinical data. The trouble is, he can’t get a hold of that clinical data himself, the data is a mess, and it’s not always clear how to get it out of the database. Even worse, the only place he can keep data or do any analysis with it is his laptop or OneDrive. Bobby desperately wants direct access to data so that he can get whatever he needs, and go back to the source if he finds he needs something more. It would be extra awesome if he could get access to analysis-ready data, like data that is already OMOP-structured, to save him some work in transforming data, and get some help on best practices for reproducible research—he’s been permanently scarred by that one time he had to revisit his analyses from his first year of grad school, and kept getting different results than before. Having been the victim of identity theft himself, he really does not want to store PHI on his laptop, in case he loses his laptop and information is stolen. He wants access to a secure cloud platform both for security and so that he can access advanced computing features. He has some ideas that require a lot of compute time, and if there were a PHI-approved platform for cloud computing, he knows he could show his PI just how many doors cloud computing opens and get some really high-impact work out the door. Bobby wants to be a paper machine…if he can just get the computing machinery in place to realize his vision."
   },
   {
     "objectID": "family/cards/Alex-the-bi-analytics-engineer.html",
@@ -154,20 +168,6 @@
     "text": "Alex needs tools to manage data discovery, lineage, and transformation\nAlex’s job is to empower people to answer questions by building data tables and providing clean, transformed datasets. An embedded business analyst needs some data about medication use at Fred Hutch? Boom, Alex is there with an analysis-ready dataset and accompanying documentation. A clinical analyst needs new tables built for a Tableau dashboard? A researcher needs data from their EHR transformed into the format of a specific biospecimen database? Bam, Alex is on it like green on grass—anything to move work at Fred Hutch forward. But Alex’s data is sourced from a lot of different places, and they have no good tools for discovering all available data, managing reference data, or tracking data sources and lineage. Additionally, the data sets are all structured differently, and sometimes there are discrepancies across reports in how objects are defined, resulting in conflicting reports or broken code. Alex will never forget the time their clinical analyst colleagues had to figure out why two reports on patients with brain metastases, created by different departments but ostensibly using the same kinds of data, didn’t match. It took weeks of long emails and redundant work to find out that the problem was because some key Epic workflows had changed, but only a few people knew about it. Alex built some new objects after the fact to make sure it never happened again, but they still worry that some other case like this could spring up. It would speed Alex’s work up considerably if they could get data from a single centralized platform, and be able to ingest data more easily from outside sources, and have better tools for making sure everyone at Fred Hutch uses consistent data definitions. Sometimes Alex runs into a thorny dilemma or an area where they’re not sure of the best practices or right tools, and they wish they had peers to talk it through with. But Alex doesn’t know anyone else in Fred Hutch who does the same kind of work – it would be great if they had a way to find out."
   },
   {
-    "objectID": "family/cards/Carina-the-clinical-researcher.html",
-    "href": "family/cards/Carina-the-clinical-researcher.html",
-    "title": "Carina the clinical researcher",
-    "section": "",
-    "text": "Carina needs direct access to structured and unstructured clinical data so she can design trials, conduct clinical research, and assess the feasibility of studies.\nShe struggles with getting all her analyses done fast enough to meet her grant deadlines\nWe can help by providing direct access to clinical data for retrospective chart review studies, prospective cohort studies, randomized trials, and other clinical research. Secondary use of patient data collected during the course of care will dramatically improve research efficiency and lower costs."
-  },
-  {
-    "objectID": "family/cards/Carina-the-clinical-researcher.html#carina-needs-to-get-her-data-set-or-analysis-ready-in-time-for-grant-deadlines",
-    "href": "family/cards/Carina-the-clinical-researcher.html#carina-needs-to-get-her-data-set-or-analysis-ready-in-time-for-grant-deadlines",
-    "title": "Carina the clinical researcher",
-    "section": "Carina needs to get her data set or analysis ready in time for grant deadlines",
-    "text": "Carina needs to get her data set or analysis ready in time for grant deadlines\nTime, tide, and grant deadlines wait for no one, as Carina knows very well. In addition to offering patient care, Carina is always developing ideas for how to make a positive impact on the world and analyzing data to spot critical needs that must be met. Although she can access patient records through the EHR, she often needs help from Daisy the Data Scientist to extract all the data she needs for analysis. Daisy sends her the data she needs in a csv, and Carina converts it to Excel to make the annotations she needs, and stores all the data on OneDrive. Daisy is fantastic, but Carina wishes she could have direct access to the clinical data herself. Sometimes she’s not exactly sure of the right things to ask for, and it takes a little back and forth with Daisy to nail down just what she needs. Other times she just wants to do some initial analysis to assess whether a study is even feasible, for instance by seeing how many patients at Hutch meet particular criteria. Once she needed data access rapidly for a multi-institutional partnership. Some turnover time was needed for DJ the Data Governance Analyst to make sure that her extramural partners had all the permissions in place to access the data, and Carina felt that if she had been able to access the data herself instead of going through gatekeepers she might have been able to save her wonderful colleagues a little time and ease their way. Since Carina doesn’t know how to code herself, she would love an easy to use GUI to access and visualize data, and a way to import data to other secure systems so she can combine the patient data she pulls with other data sets, such as survey or biospecimen repository data."
-  },
-  {
     "objectID": "family/cards/DJ-data-governance-analyst.html",
     "href": "family/cards/DJ-data-governance-analyst.html",
     "title": "DJ the Data Governance Analyst",
@@ -182,17 +182,17 @@
     "text": "DJ needs a streamlined workflow to monitor data access\nAnother day, another completely unexpected data governance challenge…such is the life of a data governance analyst. DJ’s mission is to make sure patients’ wishes are respected with regard to how their data is used. To maintain the insitution’s integrity and make sure the institution can account for all PHI disclosures, she tracks requests and makes sure that all prospective data use that she reviews is in compliance with HIPAA regulations. She frequently works with Daisy the Data Scientist to respond to requests for data. Whenever a request for data comes in, DJ makes sure that the person requesting data has permission to use the data they are requesting. Sometimes that involves reviewing IRB protocols for the study; often it involves checking with the study PI to make sure the requester is on their study team and has appropriate training done. While a lot of cases are fairly straightforward, a few are tricky, and there are times when a good chunk of DJ’s week goes to verifying that data requestors have the right permissions, or checking with the IRB office that the data requested is in line with their approvals. Different data sets fall under different governance rules. DJ would love for some critical metadata to be encoded alongside data, like whether patients have given broad consent or whether the data set contains PHI, and for researchers to be able to have access to de-identified clinical datasets on more a self-serve basis that is still compliant with regulations to simplify the governance review."
   },
   {
-    "objectID": "family/cards/melissa-clinical-analyst.html",
-    "href": "family/cards/melissa-clinical-analyst.html",
-    "title": "Melissa the Clinical Analyst",
+    "objectID": "family/cards/Carina-the-clinical-researcher.html",
+    "href": "family/cards/Carina-the-clinical-researcher.html",
+    "title": "Carina the clinical researcher",
     "section": "",
-    "text": "Melissa needs to access data about clinical operations and quality-related incidents to assess and improve clinical care.\nShe struggles to access additional datasets needed for reporting and to make sure all stakeholders are aligned on data definitions.\nWe can help her by facilitating access to raw or external data and by providing her team a better way to create and document curated datasets to monitor operations and quality indicators."
+    "text": "Carina needs direct access to structured and unstructured clinical data so she can design trials, conduct clinical research, and assess the feasibility of studies.\nShe struggles with getting all her analyses done fast enough to meet her grant deadlines\nWe can help by providing direct access to clinical data for retrospective chart review studies, prospective cohort studies, randomized trials, and other clinical research. Secondary use of patient data collected during the course of care will dramatically improve research efficiency and lower costs."
   },
   {
-    "objectID": "family/cards/melissa-clinical-analyst.html#melissa-needs-a-unified-data-source-and-code-repository-to-make-sure-everyone-is-using-the-right-source-of-truth",
-    "href": "family/cards/melissa-clinical-analyst.html#melissa-needs-a-unified-data-source-and-code-repository-to-make-sure-everyone-is-using-the-right-source-of-truth",
-    "title": "Melissa the Clinical Analyst",
-    "section": "Melissa needs a unified data source and code repository to make sure everyone is using the right “source of truth”",
-    "text": "Melissa needs a unified data source and code repository to make sure everyone is using the right “source of truth”\nMelissa wants to help things run smoothly at Fred Hutch, and she does that by monitoring clinical operations and reporting on quality improvement strategies. What percentage of patients have filled out patient-reported outcomes (PROs)? How many patients are referred to Fred Hutch for cancer treatment? How many medical errors or near misses have there been in the last month? Melissa needs to answer all these questions and more, pulling data from multiple systems like the EHR, lab data systems, cancer registry data, and even data from phone systems. With so many data sources structured in different ways, there are many possible “sources of truth”. Melissa needs to both define what she’s looking for and figure out where to get it. But getting data from so many different sources can take a lot of time.  Melissa needs data in a central platform, structured in a way that makes sense for her work. Since she’ll never get all the data she needs in one place, she needs to be able to easily join curated datasets to raw data from Epic’s warehouse, or even to excel sheets of chart abstracted data from stakeholders, as needed. And after all the work that goes into defining what data to get, Melissa needs a central repository for code snippets and the definitions and documentation associated with data objects so she can share them with her colleagues and make sure everyone is using the right “source of truth” for a given project. It would also save her time if she had more tools to automate parts of her workflow."
+    "objectID": "family/cards/Carina-the-clinical-researcher.html#carina-needs-to-get-her-data-set-or-analysis-ready-in-time-for-grant-deadlines",
+    "href": "family/cards/Carina-the-clinical-researcher.html#carina-needs-to-get-her-data-set-or-analysis-ready-in-time-for-grant-deadlines",
+    "title": "Carina the clinical researcher",
+    "section": "Carina needs to get her data set or analysis ready in time for grant deadlines",
+    "text": "Carina needs to get her data set or analysis ready in time for grant deadlines\nTime, tide, and grant deadlines wait for no one, as Carina knows very well. In addition to offering patient care, Carina is always developing ideas for how to make a positive impact on the world and analyzing data to spot critical needs that must be met. Although she can access patient records through the EHR, she often needs help from Daisy the Data Scientist to extract all the data she needs for analysis. Daisy sends her the data she needs in a csv, and Carina converts it to Excel to make the annotations she needs, and stores all the data on OneDrive. Daisy is fantastic, but Carina wishes she could have direct access to the clinical data herself. Sometimes she’s not exactly sure of the right things to ask for, and it takes a little back and forth with Daisy to nail down just what she needs. Other times she just wants to do some initial analysis to assess whether a study is even feasible, for instance by seeing how many patients at Hutch meet particular criteria. Once she needed data access rapidly for a multi-institutional partnership. Some turnover time was needed for DJ the Data Governance Analyst to make sure that her extramural partners had all the permissions in place to access the data, and Carina felt that if she had been able to access the data herself instead of going through gatekeepers she might have been able to save her wonderful colleagues a little time and ease their way. Since Carina doesn’t know how to code herself, she would love an easy to use GUI to access and visualize data, and a way to import data to other secure systems so she can combine the patient data she pulls with other data sets, such as survey or biospecimen repository data."
   }
 ]
