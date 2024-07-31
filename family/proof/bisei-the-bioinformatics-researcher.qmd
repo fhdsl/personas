@@ -22,7 +22,7 @@ Bisei is busily developing her research agenda, and building out her data scienc
 :::
 
 ::: darkblue-highlight
-**Collaborators:** [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Larry the learner](/family/proof/larry-the-learner.html) 
+**Collaborators:** [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Larry the learner](/family/proof/larry-the-learner.html)
 
 **Downstream users:** [Preeti the PI](/family/proof/preeti-the-pi.html)
 :::
@@ -53,5 +53,10 @@ Bisei is busily developing her research agenda, and building out her data scienc
 <div>
 
 Image attribution: "[Nurse](https://www.flickr.com/photos/8404611@N06/3373106750)" by [Walt Stoneburner](https://www.flickr.com/photos/8404611@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
+<div>
+
+last updated July 2024
 
 </div>

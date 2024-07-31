@@ -64,3 +64,8 @@ Image attribution: "[Finance_accounting_and_fintech_a_man_on_a_computer_an_6cb95
 Acknowledgments: Thanks to members of the clinical and financial analytics and data platform teams for their input!
 
 </div>
+<div>
+
+last updated July 2024
+
+</div>
