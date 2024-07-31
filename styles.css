@@ -27,6 +27,11 @@
   padding: 1em;
 }
 
+.footnotes {
+  background-color: rgba(205, 205, 205, 1.0);
+  padding: 1em;
+}
+
 h2, .h2 {
   border-bottom: none;
 }
