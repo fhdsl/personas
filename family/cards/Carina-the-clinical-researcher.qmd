@@ -1,0 +1,58 @@
+---
+title: "Carina the clinical researcher"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/carina.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   Carina **needs** direct access to structured and unstructured clinical data so she can design trials, conduct clinical research, and assess the feasibility of studies.
+-   She **struggles** with getting all her analyses done fast enough to meet her grant deadlines
+-   **We can help** by providing direct access to clinical data for retrospective chart review studies, prospective cohort studies, randomized trials, and other clinical research. Secondary use of patient data collected during the course of care will dramatically improve research efficiency and lower costs.
+:::
+:::
+
+::: lightblue-highlight
+## Carina needs to get her data set or analysis ready in time for grant deadlines
+
+Time, tide, and grant deadlines wait for no one, as Carina knows very well. In addition to offering patient care, Carina is always developing ideas for how to make a positive impact on the world and analyzing data to spot critical needs that must be met. Although she can access patient records through the EHR, she often needs help from Daisy the Data Scientist to extract all the data she needs for analysis. Daisy sends her the data she needs in a csv, and Carina converts it to Excel to make the annotations she needs, and stores all the data on OneDrive. Daisy is fantastic, but Carina wishes she could have **direct access to the clinical data** herself. Sometimes she’s **not exactly sure of the right things to ask for,** and it takes a little back and forth with Daisy to nail down just what she needs. Other times she just wants to do some initial analysis to assess whether a study is even feasible, for instance by seeing how many patients at Hutch meet particular criteria. Once she needed data access rapidly for a multi-institutional partnership. Some turnover time was needed for DJ the Data Governance Analyst to make sure that her extramural partners had all the permissions in place to access the data, and Carina felt that if she had been able to access the data herself instead of going through gatekeepers she might have been able to save her wonderful colleagues a little time and ease their way. Since Carina doesn’t know how to code herself, she would love an **easy to use GUI to access and visualize data,** and a way to import data to other secure systems so she can combine the patient data she pulls with other data sets, such as survey or biospecimen repository data.
+:::
+
+::: darkblue-highlight
+**Collaborators:** [Daisy the Data Scientist](/family/cards/Daisy-the-data-scientist.html), [DJ the Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html)
+
+**Downstream users:** clinical research community
+:::
+
+# Key Challenges
+
+-   Lack of direct access to data slows down pace of work
+-   Lack of direct access to data makes it hard for her to see what data is available and conduct exploratory analysis, reducing her opportunities for discovery and inspiration
+-   Combining data with data from other institutions, and making sure their resulting data sets are structured similarly to their extramural collaborators’ data
+-   There is no PHI-approved cloud computing platform, so all data must be stored locally and all analyses must be performed locally, limiting options and posing a security risk\
+
+# Needs and Wants
+
+-   Direct access to clinical data, with clear information on who to reach out to for help if she needs it
+-   A PHI-approved cloud computing platform to store and analyze data, that supports best practices for code review and version control for reproducible science
+-   A de-identified data asset and chart review tool that is available without additional governance review to enable exploration and discovery\
+
+# Types of data used
+
+-   Data about patients from EHR or other systems including patient demographics, conditions, comorbidities, treatments, location
+-   Novel, non-clinically reported data is relevant such as research use only genetic assay results
+-   Survey and case report form type datasets
+
+<div>
+
+Image attribution: "[Women In Tech - 53](https://www.flickr.com/photos/136629440@N06/22344625928)" by [wocintechchat.com](https://www.flickr.com/photos/136629440@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
+<div>
+
+last updated July 2024
+
+</div>

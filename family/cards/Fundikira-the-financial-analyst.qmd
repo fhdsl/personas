@@ -1,0 +1,71 @@
+---
+title: "Fundikira the Financial Analyst"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/fundikira.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   Fundikira **needs** tools to help stakeholders answer critical questions about financial data
+-   He **struggles** discovering and joining data from beyond Clarity
+-   **We can help** him by giving him a data lake and a faster process for ingesting additional data, so that he can focus on analyzing data rather than getting it
+:::
+:::
+
+::: lightblue-highlight
+## Fundikira wants to spend his time analyzing data instead of hunting it down
+
+Fundikira’s role is to help stakeholders within Fred Hutch answer questions about the institution’s finances, whether it’s about payments received, service denials, or some other information. When a request comes to him, he figures out if the stakeholder wants a single number to answer a question, or a dashboard or dataset to play with. Then he goes hunting, browsing through Clarity and other databases he has access to figure out how to answer the question. Sometimes Fundikira only partly gets the information he needs, like when he finds tables that someone else built, but can’t find any documentation to understand how those tables were constructed. Fundikira needs all the data in one place, or at minimum a faster, more streamlined way to ingest data from other sources and join it to data from a central data lake. It would also save him time if stakeholders could have some limited self-serve access to data, for instance to add one or two new data points to the Tableau dashboards he creates for them on their own. And since people across the organization pull data in different ways and from different sources, sometimes reports have different results and he has to hunt down different data sources to figure out why. Fundikira would love way to enable consistent data definitions across the organization.
+:::
+
+::: darkblue-highlight
+**Collaborators:** [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), Corporate Finance Team 
+
+**Downstream users:** varies based on project and specialty but includes service line managers, strategy leadership, financial services teams, financial leadership
+
+:::
+
+# Key Challenges
+
+-   Data discovery – identifying what tables to use and how they are constructed, especially if those tables are sourced outside of Fundikira's primary data sources
+-   Getting data into FHCC warehouse from external sources, and doing so without overly taxing servers
+-   Delays from upstream data sources
+-   Needing to spend a lot of time cleaning data rather than doing value-add analytic work
+-   Inconsistent definitions of specific terms across teams
+-   Delays of new data objects (e.g., when buildout of tables is slowed because of roadblocks with CPT Code reference data)
+-   performance issues with sql server and data visualization systems
+
+# Needs and Wants
+
+-   A faster process for discovering and pulling data that exists outside of his primary data sources, for example data from clinical trial management systems or some financial systems
+-   A way to ensure that data definitions are more consistent across teams and reports/dashboards
+-   An automated way to ingest data from other sources
+-   More standardized development tools across the organization
+
+# Types of data used
+
+-   EHR data
+-   HR data
+-   Billing and other financial data
+-   External data (e.g., DOH reports, CMS reference data)
+-   Internal data (e.g., budget, modeled financial scenarios)
+
+<div>
+
+Image attribution: "[Finance_accounting_and_fintech_a_man_on_a_computer_an_6cb95359-455e-4393-bdb5-96c80267df63](https://www.flickr.com/photos/192194531@N08/52899049092)" by [digitalcreators.ch](https://www.flickr.com/photos/192194531@N08) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
+
+<div>
+
+Acknowledgments: Thanks to members of the clinical and financial analytics and data platform teams for their input!
+
+</div>
+<div>
+
+last updated July 2024
+
+</div>

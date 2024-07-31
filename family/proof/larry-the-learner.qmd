@@ -1,0 +1,62 @@
+---
+title: "Larry the Learner"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/larry.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   Larry **needs** help figuring out how to get the analysis done that his PI asked him to do, and that he cannot do on Excel.
+-   He **struggles** with figuring out the right steps to take to get the end result he needs.
+-   **We can help him** by offering him an approachable GUI, tips on writing good quality WDLs, and ample training support.
+:::
+:::
+
+::: lightblue-highlight
+## Larry needs to get his job done but lacks the computational expertise to do it efficiently
+
+Larry's been asked by his PI to analyze some genomics data. It's a new kind of challenge for him, and he's excited to get started ... if only he knew what he was supposed to do! He's never used high performance computing before, and he's feeling very uncertain about how to get started. Larry has so many questions. Should he use the cluster or AWS? How does he estimate how much time he needs? And is there a cheat sheet for what commands to enter in the command line? His colleague Daesung shared some code with him to help him get started, but Larry is not totally sure what to do with it. Larry needs an approachable tool with clear instructions that can offer him some guidance on what he needs to do to get this analysis done.
+:::
+
+::: darkblue-highlight
+**Collaborators:** [Daesung the Data Scientist](/family/proof/daesung-the-data-scientist.html), [Bisei the Bioinformatics Researcher](/family/proof/bisei-the-bioinformatics-researcher.html) 
+
+**Downstream users:** [Preeti the PI](/family/proof/preeti-the-pi.html)
+:::
+
+# Key Challenges
+
+-   May or may not be familiar with coding in R/Python
+-   Likely unfamiliar with bash/command line
+-   May or may not be familiar with appropriate statistical methods
+-   May or may not know best practices for code version control
+-   Specifying the environmental contexxt needed for accurately reproducible code can be time-consuming and challenging
+-   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in cell and molecular biology and learned coding on the job)
+
+# Needs and Wants
+
+-   A clear picture of where to start and where to go next
+-   Friendly support for figuring out the best approach to analyzing data and the best means for doing so with HPC
+-   Easy-to-follow, easy-to-scan documentation to help him figure out programming languages, tools, and appropriate statistical methods
+-   Training in computer science and data science foundations
+-   An approachable, user-friendly GUI that is easier to learn than the command line
+
+# Types of data used
+
+-   Omics data
+-   Phenotypic data
+-   Biomedical imaging data
+
+<div>
+
+Image attribution: "[Nicholas Kinsey](https://www.flickr.com/photos/91606868@N08/8359632184)" by [nicnek](https://www.flickr.com/photos/91606868@N08) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse).
+
+</div>
+<div>
+
+last updated July 2024
+
+</div>

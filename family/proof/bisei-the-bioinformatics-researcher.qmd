@@ -1,0 +1,62 @@
+---
+title: "Bisei the bioinformatics researcher"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/bisei.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   Bisei **needs** a little help learning the best practices for HPC work to minimize computing time and duplicated effort.
+-   She **struggles** to figure out what steps are needed to conform to best practices.
+-   **We can help her** by training her on best practices for when she uses PROOF with a cloud back-end.
+:::
+:::
+
+::: lightblue-highlight
+## Bisei wants tools to do her work in a reproducible manner
+
+Bisei is busily developing her research agenda, and building out her data science analysis skills is an important building block for her future work. Bisei knows that time is money, both in terms of computing time and in terms of time spent figuring out her collaborators' code. Bisei has a project coming up that may need some cloud computing time, and before she starts running up AWS bills she wants to make sure she knows the best practices in writing efficient code to minimize computing time. She also wants to write reproducible code and practice good version control to avoid duplication of effort. But Bisei is still learning how to build and run complex workflows, and truth be told she is not 100% comfortable with a command-line interface yet. And it's not always easy to find the right resources, or figure out what the best practices are. Bisei could use an easy-to-use tool that helps her test and troubleshoot workflows before sending them to the cloud, then seamlessly switch to AWS when she needs it.
+:::
+
+::: darkblue-highlight
+**Collaborators:** [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Larry the learner](/family/proof/larry-the-learner.html)
+
+**Downstream users:** [Preeti the PI](/family/proof/preeti-the-pi.html)
+:::
+
+# Key Challenges
+
+-   Not always sure of best practices for cloud use and computing environments
+-   Not always sure of best methods to use for data analysis
+-   Perception that using HPC is not worth learning (too much effort required)
+-   May or may not be familiar with coding in R/Python/WDL
+-   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in Cell and Molecular Biology and learned coding on the job)
+-   May or may not be familiar with code versioning systems like GitHub or best practices for version control
+-   Getting time on the cluster may require waiting longer than downstream users (e.g., PIs) want to wait
+-   Some analysis tasks may require advanced computational features or large amounts of cluster time
+-   In-house tool that aids in workflow validation and management (PROOF) currently only works on the cluster
+
+# Needs and Wants
+
+-   Pointers to resources for learning best practices in coding, data science methods, and code management
+-   A way to use PROOF on the cloud
+-   Training in the benefits of creating reproducible code and computational environments
+
+# Types of data used
+
+-   'Omics data
+-   Phenotypic data
+
+<div>
+
+Image attribution: "[Nurse](https://www.flickr.com/photos/8404611@N06/3373106750)" by [Walt Stoneburner](https://www.flickr.com/photos/8404611@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
+<div>
+Last updated July 2024
+</div>
+
+

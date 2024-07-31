@@ -15,9 +15,9 @@ We are conducting ongoing research using a mix of qualitative and quantitative m
 
 Although personas are primarily internal documentation of user needs, we are making ours public so that YOU can help us improve our understanding of data infrastructure and tooling needs around Fred Hutch.
 
-**Our personas are a work in progress** and do not represent everything we have learned. However, **we would love to hear from you** no matter what. If you see a missing problem area, a factual inaccuracy, a role that you think is not captured that should be -- email us at `data@fredhutch.org`.
+**Our personas are a work in progress** and may evolve somewhat over time. They do not represent everything we have learned, but if you have any suggestions for improvement, **we would love to hear from you**. If you see a missing problem area, a factual inaccuracy, a role that you think is not captured that should be -- email us at [data@fredhutch.org](mailto: data@fredhutch.org) or fill out [this form](https://forms.office.com/r/4Nh20Zk8NB). If you prefer, you can also submit a comment via a [github issue](https://github.com/fhdsl/personas/issues). 
 
-# Hello
+A big thank you to members of the FHCC community who have already helped us develop these personas, including members of the clinical analytics and financial analytics teams, DaSL team members who collaborated closely in creating them, and other helpful individuals!
 
 # Current personas by problem area
 
@@ -25,13 +25,20 @@ We group our personas by general problem area below.
 
 ## Running research data analyses on the cloud
 
--   Larry the Learner
--   Preeti the PI
--   Daesung the data scientist
--   Bisei the bioinformatician
+-   [Larry the Learner](/family/proof/larry-the-learner.html)
+-   [Preeti the PI](/family/proof/preeti-the-pi.html)
+-   [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html)
+-   [Bisei the bioinformatician](/family/proof/bisei-the-bioinformatics-researcher.html)
 
 ## Working with patient data
 
--   [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
--   CARDS persona 2
--   CARDS persona 3
+-   [Bobby the biostatistician](/family/cards/bobby-the-biostatistician.html)
+-   [Carina the clinical researcher](/family/cards/carina-the-clinical-researcher.html)
+-   [DJ the data governance analyst](/family/cards/DJ-data-governance-analyst.html)
+-   [Daisy the data scientist](/family/cards/Daisy-the-data-scientist.html)
+-   [Alex the BI/analytics engineer](/family/cards/Alex-the-bi-analytics-engineer.html)
+-   [Fundikira the financial analyst](/family/cards/Fundikira-the-financial-analyst.html)
+-   [Bashir the business analyst](/family/cards/Bashir-the-business-analyst.html)
+-   [Melissa the clinical analyst](/family/cards/melissa-clinical-analyst.html)
+
+

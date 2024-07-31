@@ -1,0 +1,59 @@
+---
+title: "Preeti the PI"
+toc-expand: 2
+---
+
+::: grid
+::: {.g-col-12 .g-col-xl-3}
+<img src="/img/preeti.jpg" width="200" height="200"/>
+:::
+
+::: {.g-col-12 .g-col-xl-8}
+-   Preeti **needs** cost-effective computational resources for her lab members to execute the necessary research for future papers and grant proposals.
+-   She **struggles** to see the advantages of cloud-based computing when there's a perfectly good (and free) cluster on-premises.
+-   **We can help her** by providing tools to track spending on cloud-based analyses and training her lab members to optimize first using the cluster via PROOF.
+:::
+:::
+
+::: lightblue-highlight
+## Preeti wants to help her lab members and manage her money
+
+Preeti works hard to write successful grants and advance biomedical research. She cares deeply about both managing her federal grant money wisely and mentoring lab members who will go on to build their own incredible careers. Although she doesn’t know too much about cloud computing herself, when her postdocs talk to her about it, she’s willing to listen. Unfortunately, they don’t always have the information she needs. Preeti needs to know the value of paying for her staff to use AWS instead of her institution's cluster, which costs her nothing. She knows the cluster comes with a wait time, but that can be planned for. Running analyses that take longer than expected or fail and need to be redone can cost money she’s not sure how to budget for, and she’s not always sure how much time saving would justify the expense. Preeti needs to know that when her staff uses PROOF, they’re choosing the right back end for it. She needs to know that they have the resources to make informed choices. And she needs to know that paying for cloud use is worth it.
+:::
+
+::: darkblue-highlight
+**Collaborators:** [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Bisei the bioinformatics researcher](/family/proof/bisei-the-bioinformatics-researcher.html), [Larry the learner](/family/proof/larry-the-learner.html)
+
+**Downstream users:** clinical research community
+:::
+
+# Key Challenges
+
+-   May or may not be familiar with coding in R/Python or HPC computing techniques
+-   Likely unfamiliar with bash/command line
+-   May or may not be familiar with appropriate statistical methods
+-   May or may not know best practices for code version control
+-   Specifying the environmental contexxt needed for accurately reproducible code can be time-consuming and challenging
+-   May or may not have computer science foundations to learn computational tools effectively (i.e., has academic training in cell and molecular biology and learned coding on the job)
+
+# Needs and Wants
+
+-   Resources and support for her lab members to develop new skills on their own
+-   A fast, easy way to figure out when paying for cloud time is worth it
+-   A way to feel reassured that their lab members are using cloud computing resources wisely
+
+# Types of data used
+
+-   Basic science, biological, biomedical, or clinical data depending on type of research
+
+<div>
+
+Image attribution: "[Minister for Employment and UK Indian Diaspora Champion](https://www.flickr.com/photos/10246637@N04/19459927293)" by [Foreign and Commonwealth Office](https://www.flickr.com/photos/10246637@N04) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
+
+<div>
+
+last updated July 2024
+
+</div>

@@ -3,80 +3,75 @@ title: "Melissa the Clinical Analyst"
 toc-expand: 2
 ---
 
-::: {.grid}
-
+::: grid
 ::: {.g-col-12 .g-col-xl-3}
-<img src="https://seankross.com/headshot/sean-kross.png" width="200" height="200">
+<img src="/img/melissa.jpg" width="200" height="200"/>
 :::
 
 ::: {.g-col-12 .g-col-xl-8}
-- Melissa needs to **access** data about clinical operations and quality-related 
-incidents to assess and improve clinical operations.
-- She **struggles** to access additional datasets needed for reporting and to work quickly and adeptly with current data systems.
-- **We can help her** by making new datasets discoverable and by providing her team a way to create and document curated datasets to monitor operations, investigate incidents, and make quality improvement plans.
-- **In Hutch**: 20-ish people in Clinical Operations.
+-   Melissa needs to **access** data about clinical operations and quality-related incidents to assess and improve clinical care.
+-   She **struggles** to access additional datasets needed for reporting and to make sure all stakeholders are aligned on data definitions.
+-   **We can help her** by facilitating access to raw or external data and by providing her team a better way to create and document curated datasets to monitor operations and quality indicators.
+:::
 :::
 
+::: lightblue-highlight
+## Melissa needs a unified data source and code repository to make sure everyone is using the right "source of truth"
+
+Melissa wants to help things run smoothly at Fred Hutch, and she does that by monitoring clinical operations and reporting on quality improvement strategies. What percentage of patients have filled out patient-reported outcomes (PROs)? How many patients are referred to Fred Hutch for cancer treatment? How many medical errors or near misses have there been in the last month? Melissa needs to answer all these questions and more, pulling data from multiple systems like the EHR, lab data systems, cancer registry data, and even data from phone systems. With so many data sources structured in different ways, there are many possible “sources of truth”. Melissa needs to both define what she’s looking for and figure out where to get it. But **getting data from so many different sources can take a lot of time.**  **Melissa needs data in a central platform**, structured in a way that makes sense for her work. Since she’ll never get *all* the data she needs in one place, she needs to be able to **easily join curated datasets to raw data** from Epic’s warehouse**, or even to excel sheets** of chart abstracted data from stakeholders, as needed. And after all the work that goes into defining what data to get, Melissa **needs a central repository for code snippets and the definitions and documentation associated with data objects** so she can share them with her colleagues and make sure everyone is using the right “source of truth” for a given project. It would also save her time if she had more tools to automate parts of her workflow.
 :::
 
-::: {.lightblue-highlight}
+::: darkblue-highlight
+**Collaborators:** Other roles on the clinical analytics team such as epic report analysts, [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), [Daisy the data scientist](/family/cards/Daisy-the-data-scientist.html)
 
-## Melissa needs a unified data source and code repository to speed up quality improvements
-
-Melissa wants to help things run smoothly at Fred Hutch, and she does that by 
-monitoring clinical operations and reporting on quality improvement strategies. 
-What percentage of patients have filled out patient-reported outcomes? How many 
-patients are referred to Fred Hutch for cancer treatment? How many medical 
-errors or near misses have there been in the last month? Melissa needs to 
-answer all these questions and more, pulling data from multiple systems like 
-Epic EHR data, Sunquest lab data, cancer registry data (CNeXT), and even data 
-from phone systems. With so many data sources structured in different ways, 
-there are many possible "sources of truth". Melissa needs ot both define what 
-she's looking for and figure out where to get it. But getting data from so many 
-different sources can take a lot of time. Melissa needs data in a central 
-platform, structured in a way that makes sense for her work. Since she'll never 
-get all the data she needs in one place, she needs to be able to easily join 
-curated datasets to raw data from Epic's warehouse, or even to excel sheets of 
-chart abstracted data from stakeholders, as needed. And after all the work that 
-goes into defining what data to get, Melissa needs a central repository for code 
-snippets and the definitions and documentation associated with data objects so 
-she can share them with her colleagues and make sure everyone is using the right 
-"source of truth" for a given project. It would also save her time to automate 
-Tableau reports, and if her colleagues could automate the production of reports 
-in Epic's in-application reporting tools.
-
+**Downstream users:** Super Users, [Bashir the Business Analyst](/family/cards/Bashir-the-business-analyst.html), Clinical Leaders
 :::
 
-::: {.darkblue-highlight}
 
-Collaborators: Epic Reporting Analysts, Clinical Analytics Systems Educator, BI/Analytics Engineer
-Downstream users: Super Users, Business Analysts, Clinical Leaders
-
-:::
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-xl-6}
 # Key Challenges
 
-- Identifying the most accurate source of truth when multiple options are in play
-- Missing data in the clinical analytics database, necessitating importing data from other platforms (e.g., importing data from DAWG and combining it with the data reporting object when necessary)
-- Understanding the landscape of data from FHCC clinical applications that is not available in DAWG or visible on the FH side
-- Ensuring that all stakeholders both within and outside of the team are using the same reference data and data definitions, and resolving confusion when discrepancies occur
-- Assessing the limits of reliability and quality of datasets or data dictionaries (e.g., Epic fields may not be used in practice the way they are defined in the dictionary)
-- Clearly supporting QI/QA projects and identifying when they become research and need review by the IRB
-- Providing requesters with what they need with a very short turnaround time
-- Inconsistency in the way that clinical providers and staff enter data into epic, making it harder for analysts to determine which epic fields to query (e.g., there is more than one comment field in Epic and clinical comments may appear in any of them)
-:::
-
-::: {.g-col-12 .g-col-xl-6}
-# Heading 2
-:::
-
-:::
+-   Identifying the most accurate source of truth when multiple options are in play
+-   Needing to import data from other systems to do her work
+-   Understanding what all data is available to import when it is in systems that she does not have access to
+-   Ensuring that all stakeholders both within and outside of the team are using the same reference data and data definitions, and resolving confusion when discrepancies occur
+-   Identifying what epic fields to query when there is more than one option (e.g., more than one comment field for clinical comments), or when official data dictionaries differ from how data is entered in practice
+-   Providing stakeholders with what they need with a very short turnaround time
 
 
 
+# Needs and Wants
 
+-   PHI-approved space to easily access different types of data, perform cloud-based analysis, and enable the building of dynamic visualizations
+-   Automated reports on frequently needed data
+-   Availability of clear, user-friendly documentation within the data platform, including information about known data issues
+-   Repository for code and data object definitions, including information about when the use of an EHR field differs at Melissa's institution from its definition in the standard dictionary
+-   Ability to share curated datasets and appropriate documentation with selected stakeholders from a centralized platform to enable some limited self-serve data access for external stakeholders 
+-   A way to clearly communicate data definitions to end users
 
-# Heading 3
+# Data types used
+
+-   EHR data
+-   Cancer registry data
+-   Lab data and radiation oncology data
+-   Clinical trials management system data
+-   Medication and other treatment data
+-   Data from internal systems (e.g., phone systems)
+-   Externally sourced data (e.g., patient satisfaction surveys, market data, ICD and CMS codes, public datasets)
+-   Custom reference data (e.g., institution-specific classifications)
+ 
+<div>
+
+Image attribution: "[Woman In Black Blazer Sitting On Black Office Chair](https://www.flickr.com/photos/190888186@N04/51669636133)" by [quariesofficial](https://www.flickr.com/photos/190888186@N04) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
+
+</div>
+
+<div>
+
+Acknowledgments: Thanks to members of the clinical and financial analytics and data platform teams for their input!
+
+</div>
+<div>
+
+last updated July 2024
+
+</div>
