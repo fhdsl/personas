@@ -39,7 +39,7 @@ Larry's been asked by his PI to analyze some genomics data. It's a new kind of c
 # Needs and Wants
 
 -   A clear picture of where to start and where to go next
--   Friendly support for figuring out the best approach to analyzing data and hte best means for doing so with HPC
+-   Friendly support for figuring out the best approach to analyzing data and the best means for doing so with HPC
 -   Easy-to-follow, easy-to-scan documentation to help him figure out programming languages, tools, and appropriate statistical methods
 -   Training in computer science and data science foundations
 -   An approachable, user-friendly GUI that is easier to learn than the command line

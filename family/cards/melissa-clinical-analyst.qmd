@@ -44,7 +44,7 @@ Melissa wants to help things run smoothly at Fred Hutch, and she does that by mo
 -   PHI-approved space to easily access different types of data, perform cloud-based analysis, and enable the building of dynamic visualizations
 -   Automated reports on frequently needed data
 -   Availability of clear, user-friendly documentation within the data platform, including information about known data issues
--   Repository for code and data object definitions, including information about when the use of a field differs at Melissa's institution from its definition in the standard dictionary
+-   Repository for code and data object definitions, including information about when the use of an EHR field differs at Melissa's institution from its definition in the standard dictionary
 -   Ability to share curated datasets and appropriate documentation with selected stakeholders from a centralized platform to enable some limited self-serve data access for external stakeholders 
 -   A way to clearly communicate data definitions to end users
 
