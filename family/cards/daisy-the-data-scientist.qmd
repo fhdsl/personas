@@ -22,9 +22,9 @@ Clinical researchers and leaders at Fred Hutch have many questions about Fred Hu
 :::
 
 ::: darkblue-highlight
-**Collaborators:** Data Engineers, [DJ the Data Governance Analyst](/family/cards/DJ-data-governance-analyst.html), [Alex the BI/Analytics Engineer](/family/cards/Alex-the-bi-analytics-engineer.html), [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
+**Collaborators:** Data Engineers, [DJ the Data Governance Analyst](/family/cards/dj-data-governance-analyst.html), [Alex the BI/Analytics Engineer](/family/cards/alex-the-bi-analytics-engineer.html), [Melissa the Clinical Analyst](/family/cards/melissa-clinical-analyst.html)
 
-**Downstream users:** [Carina the Clinical Researcher](/family/cards/Carina-the-clinical-researcher.html), [Bobby the Biostatistician](/family/cards/Bobby-the-biostatistician.html), Program and Service Line Managers
+**Downstream users:** [Carina the Clinical Researcher](/family/cards/carina-the-clinical-researcher.html), [Bobby the Biostatistician](/family/cards/bobby-the-biostatistician.html), Program and Service Line Managers
 :::
 
 
