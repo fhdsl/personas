@@ -15,7 +15,7 @@ We are conducting ongoing research using a mix of qualitative and quantitative m
 
 Although personas are primarily internal documentation of user needs, we are making ours public so that YOU can help us improve our understanding of data infrastructure and tooling needs around Fred Hutch.
 
-**Our personas are a work in progress** and may evolve somewhat over time. They do not represent everything we have learned, but if you have any suggestions for improvement, **we would love to hear from you**. If you see a missing problem area, a factual inaccuracy, a role that you think is not captured that should be -- email us at [data@fredhutch.org](mailto: data@fredhutch.org) or fill out [this form](https://forms.office.com/r/4Nh20Zk8NB). If you prefer, you can also submit a comment via a [github issue](https://github.com/fhdsl/personas/issues) or minor edit via pull request on each persona. 
+**Our personas are a work in progress** and may evolve somewhat over time. They do not represent everything we have learned, but if you have any suggestions for improvement, **we would love to hear from you**. If you see a missing problem area, a factual inaccuracy, a role that you think is not captured that should be -- email us at [data@fredhutch.org](mailto: data@fredhutch.org) or fill out [this form](https://forms.office.com/r/4Nh20Zk8NB). If you prefer, you can also submit a comment via a [github issue](https://github.com/fhdsl/personas/issues). 
 
 A big thank you to members of the FHCC community who have already helped us develop these personas, including members of the clinical analytics and financial analytics teams, DaSL team members who collaborated closely in creating them, and other helpful individuals!
 
