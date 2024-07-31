@@ -55,8 +55,14 @@ Bisei is busily developing her research agenda, and building out her data scienc
 Image attribution: "[Nurse](https://www.flickr.com/photos/8404611@N06/3373106750)" by [Walt Stoneburner](https://www.flickr.com/photos/8404611@N06) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=openverse).
 
 </div>
-<div>
 
-last updated July 2024
+::: footnotes
+Want to contribute? There are three ways:
+-   Email us at [data@fredhutch.org](mailto: data@fredhutch.org) 
+-   [Fill out a feedback form](https://forms.office.com/r/4Nh20Zk8NB)
+-   Submit a minor edit or correction on [Github] or comment with an [issue](https://github.com/fhdsl/personas/issues)
 
-</div>
+Last updated July 2024
+:::
+
+
