@@ -22,9 +22,9 @@ Bisei is busily developing her research agenda, and building out her data scienc
 :::
 
 ::: darkblue-highlight
-**Collaborators:** Daesung the data scientist, Larry the learner 
+**Collaborators:** [Daesung the data scientist](/family/proof/daesung-the-data-scientist.html), [Larry the learner](/family/proof/larry-the-learner.html) 
 
-**Downstream users:** Preeti the PI
+**Downstream users:** [Preeti the PI](/family/proof/preeti-the-pi.html)
 :::
 
 # Key Challenges

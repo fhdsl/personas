@@ -30,18 +30,17 @@ Fundikira’s role is to help stakeholders within Fred Hutch answer questions ab
 
 # Key Challenges
 
--   Data discovery – identifying what tables to use and how they are constructed, especially if those tables are sourced outside of Clarity
+-   Data discovery – identifying what tables to use and how they are constructed, especially if those tables are sourced outside of Fundikira's primary data sources
 -   Getting data into FHCC warehouse from external sources, and doing so without overly taxing servers
--   Delays from upstream data sources (e.g., UW Clarity delays)
+-   Delays from upstream data sources
 -   Needing to spend a lot of time cleaning data rather than doing value-add analytic work
 -   Inconsistent definitions of specific terms across teams
--   Delays of new data objects (ex: Buildout of CEDAR tables hit roadblocks with CPT Code reference data)
--   SSMS performance issues: queries and Tableau reports connected to SQL can be slow when using standard database objects.
+-   Delays of new data objects (e.g., when buildout of tables is slowed because of roadblocks with CPT Code reference data)
+-   performance issues with sql server and data visualization systems
 
 # Needs and Wants
 
--   A faster process for discovering and pulling data that exists outside of Clarity, including data from: OnCore, DAWG, datasets not maintained by FHCC IT/DPT (e.g., expected payment data, budget spread)
--   A way for stakeholders to make their own adjustments to dashboards that Fundikira creates for them (e.g., adding a new kind of data to the dashboard)
+-   A faster process for discovering and pulling data that exists outside of his primary data sources, for example data from clinical trial management systems or some financial systems
 -   A way to ensure that data definitions are more consistent across teams and reports/dashboards
 -   An automated way to ingest data from other sources
 -   More standardized development tools across the organization
