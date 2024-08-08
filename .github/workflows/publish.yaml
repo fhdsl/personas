@@ -36,3 +36,5 @@ jobs:
 
       - name: Check links with linkcheck
         uses: filiph/linkcheck@3.0.0
+        with: 
+          arguments: https://hutchdatascience.org/personas/
