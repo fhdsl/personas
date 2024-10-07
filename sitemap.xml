@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fhdsl.github.io/personas/index.html</loc>
-    <lastmod>2024-08-08T20:13:40.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/daisy-the-data-scientist.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/fundikira-the-financial-analyst.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/carina-the-clinical-researcher.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/bashir-the-business-analyst.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/proof/larry-the-learner.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/proof/preeti-the-pi.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
+    <loc>https://fhdsl.github.io/personas/family/proof/bisei-the-bioinformatics-researcher.html</loc>
+    <lastmod>2024-10-07T20:38:12.922Z</lastmod>
   </url>
   <url>
     <loc>https://fhdsl.github.io/personas/family/proof/daesung-the-data-scientist.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
+    <lastmod>2024-10-07T20:38:12.922Z</lastmod>
   </url>
   <url>
-    <loc>https://fhdsl.github.io/personas/family/proof/bisei-the-bioinformatics-researcher.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
+    <loc>https://fhdsl.github.io/personas/family/cards/carina-the-clinical-researcher.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
   </url>
   <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/bobby-the-biostatistician.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/melissa-clinical-analyst.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fhdsl.github.io/personas/family/cards/dj-data-governance-analyst.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
+    <loc>https://fhdsl.github.io/personas/family/cards/daisy-the-data-scientist.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
   </url>
   <url>
     <loc>https://fhdsl.github.io/personas/family/cards/alex-the-bi-analytics-engineer.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/cards/melissa-clinical-analyst.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
   </url>
   <url>
     <loc>https://fhdsl.github.io/personas/LICENSE.html</loc>
-    <lastmod>2024-08-08T20:13:40.091Z</lastmod>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/index.html</loc>
+    <lastmod>2024-10-07T20:38:12.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/cards/bobby-the-biostatistician.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/cards/bashir-the-business-analyst.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/cards/dj-data-governance-analyst.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/cards/fundikira-the-financial-analyst.html</loc>
+    <lastmod>2024-10-07T20:38:12.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/proof/larry-the-learner.html</loc>
+    <lastmod>2024-10-07T20:38:12.922Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fhdsl.github.io/personas/family/proof/preeti-the-pi.html</loc>
+    <lastmod>2024-10-07T20:38:12.922Z</lastmod>
   </url>
 </urlset>
