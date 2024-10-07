@@ -1,11 +1,16 @@
 ---
-title: Personas for DaSL Products
+title: Personas to Inform Biomedical Data Products
 toc: false
 ---
 
-Personas are fictionalized representations of different roles around FHCC. They depict the key tasks and challenges that FHCC staff perform, as well as hopes for how things could be improved in a future state. Personas help anchor product design to user needs.
+Personas are fictionalized representations of different roles around the Fred 
+Hutch Cancer Center. They depict the key tasks and challenges that FHCC staff 
+perform, as well as hopes for how things could be improved in a future state. 
+Personas help anchor product design to user needs.
 
-The HCI group is creating personas to describe common data problems at Fred Hutch. This work continues the needs assessment done in 2023.
+The Human Computer Interaction group in the Data Science Lab is creating 
+personas to describe common data problems at Fred Hutch. This work continues 
+the needs assessment done in 2023.
 
 # How are we doing this work?
 
